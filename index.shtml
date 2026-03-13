@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Franco's Website</title>
+<meta name="vewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+<!--#include file="templates/header.html" -->
+
+<main>
+<img class="avatar" src="assets/images/profile_alma.jpg" alt="Franco at the ALMA Observatory">
+<p>Hi 👋 I'm Franco.</p>
+<p>I'm an Electronics Engineer from  Chile 🇨🇱. I have worked mostly in radio astronomy 📡. I'm currently working as a Laboratory Manager 👨‍🔬 in the research center <a href="https://cata.cl">CATA</a>. I'm also an emoji expert 😎🔥.</p>
+<p>In my free time I like to learn about technology 💻️, read about history 📜, and (very slowly) learn the Japanese language 🇯🇵.</p>
+</main>
+
+<!--#include file="templates/footer.html" -->
+</body>

@@ -1,0 +1,6 @@
+- add mising sections
+    - projects
+        - El caso sustituto
+        - jp lyrics
+    - recipies
+- add blog
