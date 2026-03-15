@@ -3,20 +3,12 @@
 <head>
 <meta charset="utf-8">
 <title>Franco's Website</title>
-<meta name="vewport" content="width=device-width, initial-scale=1">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="css/style.css">
 </head>
 
 <body>
-
-<header>
-<nav>
-<a href="index.html">🏠️ Home</a>
-<a href="outreach.html">📣 Outreach</a>
-<a href="projects.html">🛠️ Projects</a>
-<a href="recipes.html">🍲 Recipes</a>
-</nav>
-</header>
+<!--#include file="templates/header.html" -->
 
 <main>
 <h2>📰 On the News</h2>
@@ -35,12 +27,5 @@
 </ul>
 </main>
 
-<footer>
-<p>
-<a href="mailto:francocurotto@gmail.com">📧 Email</a>
-<a href="https://github.com/francocurotto">🐙 GitHub</a>
-<a href="https://linkedin.com/in/francocurotto">💼 LinkedIn</a>
-</p>
-</footer>
-
+<!--#include file="templates/footer.html" -->
 </body>
