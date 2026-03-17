@@ -8,7 +8,7 @@
 </head>
 
 <body>
-<!--#include file="templates/header.html" -->
+<!--#include virtual="/templates/header.html" -->
 
 <main>
 <img class="avatar" src="assets/images/profile_alma.jpg" alt="Franco at the ALMA Observatory">
@@ -17,5 +17,5 @@
 <p>In my free time I like to learn about technology 💻️, read about history 📜, and (very slowly) learn the Japanese language 🇯🇵.</p>
 </main>
 
-<!--#include file="templates/footer.html" -->
+<!--#include virtual="/templates/footer.html" -->
 </body>
