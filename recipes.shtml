@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Franco's Website</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+<!--#include file="templates/header.html" -->
+
+<main>
+<h2>🍲 Recipes</h2>
+<p>My collection of simple recipes that I always forget. Mostly for the Thermomix TM6.</p>
+<ul>
+<li><a href="recipes/banana_milk.shtml">🍌 Banana Milk</a></li>
+</ul>
+</main>
+
+<!--#include file="templates/footer.html" -->
+</body>
