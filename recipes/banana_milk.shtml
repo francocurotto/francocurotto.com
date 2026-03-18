@@ -6,16 +6,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="/css/style.css">
 </head>
-<style>
-code {
-  background-color: #eef3f8;   /* light gray-blue */
-  color: #2a3b5f;              /* muted blue */
-  padding: 3px 6px;
-  border-radius: 6px;
-  font-family: monospace;
-  border: 1px solid #d0d7e2;
-}
-</style>
+
 <body>
 <!--#include virtual="/templates/header.html" -->
 
@@ -29,12 +20,12 @@ code {
 </ul>
 <h3>🔢 Instructions</h3>
 <ol>
-<li>Add ingredients and crush at <code>30s//s7</code></li>
+<li>Add ingredients and crush at <code>30s//s7</code>.</li>
 </ol>
 <h3>💡 Ideas</h3>
 <ul>
-<li>🧊 add ice cubes for freshness</li>
-<li>add cinnamon for more flavor</li>
+<li>🧊 add ice cubes for freshness.</li>
+<li>add cinnamon for more flavor.</li>
 </ul>
 </main>
 

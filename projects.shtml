@@ -13,15 +13,15 @@
 <main>
 <h2>🙋 Personal Projects</h2>
 <ul>
-<li><b>🇯🇵 JP Lyrics:</b>List of Japanese songs lyrics with romaji and english translation.</li>
-<li><b>🇪🇸 El Caso Sustituto:</b>Spanish translation of an Ace Attorney fan game.</li>
-<li><b>💻️ FRANK6000:</b>Spanish translation of an Ace Attorney fan game.</li>
+<li><b>🇯🇵 JP Lyrics:</b> List of Japanese songs lyrics with romaji and english translation.</li>
+<li><b>🇪🇸 El Caso Sustituto:</b> Spanish translation of an Ace Attorney fan game.</li >
+<li><a href="https://github.com/francocurotto/FRANK6000"><b>💻️ FRANK6000:</b></a> Spanish translation of an Ace Attorney fan game.</li>
 </ul>
 <h2>🧑‍🎓 University Projects</h2>
 <ul>
-<li><a href="https://github.com/francocurotto/GraphSLAM"><b>🤖 GraphSLAM:</b></a>Simultaneous Localizaton And Mapping algorithm using the g2o framework.</li>
-<li><a href="https://github.com/francocurotto/Video-Stabilization"><b>🎥 Video Stabilization:</b></a>Video stabilization algorithm using the ORB descriptor.</li>
-<li><a href="https://github.com/francocurotto/Markiv-Reduction"><b>⛓️ Markov Reduction:</b></a>Markov chain simplification algorithm using an information theoretic approach..</li>
+<li><a href="https://github.com/francocurotto/GraphSLAM"><b>🤖 GraphSLAM:</b></a> Simultaneous Localizaton And Mapping algorithm using the g2o framework.</li>
+<li><a href="https://github.com/francocurotto/Video-Stabilization"><b>🎥 Video Stabilization:</b></a> Video stabilization algorithm using the ORB descriptor.</li>
+<li><a href="https://github.com/francocurotto/Markov-Reduction"><b>⛓️ Markov Reduction:</b></a> Markov chain simplification algorithm using an information theoretic approach.</li>
 </ul>
 </main>
 

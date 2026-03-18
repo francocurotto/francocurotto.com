@@ -23,13 +23,13 @@
 </ul>
 <h3>🔢 Instructions</h3>
 <ol>
-<li>Cut potatoes and pumpkin</li>
-<li>Put water in bowl</li>
-<li>Add potatoes and pumpkin in basket</li>
-<li>Cook at <code>25m/var/s1</code></li>
-<li>Discard water and add potatoes and pumpkin in bowl</li>
-<li>Add butter, salt and milk</li>
-<li>Crush at <code>30s//s5</code></li>
+<li>Cut potatoes and pumpkin.</li>
+<li>Put water in bowl.</li>
+<li>Add potatoes and pumpkin in basket.</li>
+<li>Cook at <code>25m/var/s1</code>.</li>
+<li>Discard water and add potatoes and pumpkin in bowl.</li>
+<li>Add butter, salt and milk.</li>
+<li>Crush at <code>30s//s5</code>.</li>
 </ol>
 </main>
 
