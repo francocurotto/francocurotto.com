@@ -1,9 +1,11 @@
 - add mising sections
     - projects
-        - El caso sustituto
-        - jp lyrics
-    - recipies
-        - add titles
-        - better style for thermomix controls
-        - correct waffles instructions
+        - Personal projects
+            - JP Lyrics
+            - El Caso Sustituto
+            - FRANK6000
+        - University projects
+            - GraphSLAM
+            - Video Stabilization
+            - Markov Reduction
 - add blog

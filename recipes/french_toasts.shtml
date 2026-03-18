@@ -11,7 +11,8 @@
 <!--#include virtual="/templates/header.html" -->
 
 <main>
-<h2>📋 Ingredients</h2>
+<h2>🍞 French Toasts in Pan</h2>
+<h3>📋 Ingredients</h3>
 <ul>
 <li>🥚 1 egg</li>
 <li>🥛 60 ml of milk</li>
@@ -20,14 +21,14 @@
 <li>🤏 pinch cinnamon</li>
 <li>🥞 syrup</li>
 </ul>
-<h2>🔢 Instructions</h2>
+<h3>🔢 Instructions</h3>
 <ol>
 <li>Mix ingredients in bowl</li>
 <li>Soak breads in mix and cook in pan with butter until brown</li>
 <li>Cut each bread in 4</li>
 <li>Decorate with syrup</li>
 </ol>
-<h2>💡 Ideas</h2>
+<h3>💡 Ideas</h3>
 <ul>
 <li>Add berries 🫐, straberries 🍓 or bananas 🍌 to decorate</li>
 </ul>

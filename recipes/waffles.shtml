@@ -11,7 +11,8 @@
 <!--#include virtual="/templates/header.html" -->
 
 <main>
-<h2>📋 Ingredients</h2>
+<h2>🧇 Waffles in Sandwich Maker</h2>
+<h3>📋 Ingredients</h3>
 <ul>
 <li>🍞 100 g all-purpose flour with baking powder</li>
 <li>🧂 25 g granulated sugar</li>
@@ -21,11 +22,10 @@
 <li>🥚 1 large egg</li>
 <li>🥄 1 tsp vanilla extract</li>
 </ul>
-<h2>🔢 Instructions</h2>
+<h3>🔢 Instructions</h3>
 <ol>
 <li>Mix ingredients in Thermomix</li>
-<li>Put silicone mold in Air Fryer and preheat at 200°C</li>
-<li>Put mix in mold and cook at 200°C for 8-10 minutes</li>
+<li>Put mix in mold of sandwich maker and cook for 8-10 minutes</li>
 </ol>
 </main>
 

@@ -11,7 +11,8 @@
 <!--#include virtual="/templates/header.html" -->
 
 <main>
-<h2>📋 Ingredients</h2>
+<h2>🍓 Strawberry Smoothie in Thermomix</h2>
+<h3>📋 Ingredients</h3>
 <ul>
 <li>🍓 250g strawberries</li>
 <li>🥛 250ml milk</li>
@@ -19,13 +20,13 @@
 <li>🥄 2 tsp sugar</li>
 <li>🧊 6 ice cubes</li>
 </ul>
-<h2>🔢 Instructions</h2>
+<h3>🔢 Instructions</h3>
 <ol>
 <li>Clean strawberries and remove stem</li>
-<li>Add ingredients (except ice) and crush at 1m//s10</li>
-<li>Add ice and crush at 30s//s8</li>
+<li>Add ingredients (except ice) and crush at <code>1m//s10</code></li>
+<li>Add ice and crush at <code>30s//s8</code></li>
 </ol>
-<h2>💡 Ideas</h2>
+<h3>💡 Ideas</h3>
 <ul>
 <li>Add a banana 🍌 for extra creaminess</li>
 </ul>

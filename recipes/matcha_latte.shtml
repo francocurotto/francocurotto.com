@@ -11,17 +11,18 @@
 <!--#include virtual="/templates/header.html" -->
 
 <main>
-<h2>📋 Ingredients</h2>
+<h2>🍵 Matcha Latte in thermomix</h2>
+<h3>📋 Ingredients</h3>
 <ul>
 <li>🥛 500 ml milk</li>
 <li>🍵 2 tsp matcha powder</li>
 <li>🥄¼ tsp ground cinnamon</li>
 <li>🍯sugar or honey to sweeten</li>
 </ul>
-<h2>🔢 Instructions</h2>
+<h3>🔢 Instructions</h3>
 <ol>
-<li>Heat milk at 4m/80C/s2</li>
-<li>Add matcha, cinnamon and sweetener and mix at 30s/80C/s6</li>
+<li>Heat milk at <code>4m/80C/s2</code></li>
+<li>Add matcha, cinnamon and sweetener and mix at <code>30s/80C/s6</code></li>
 </ol>
 </main>
 
