@@ -13,19 +13,16 @@
 <main>
 <h2>📋 Ingredients</h2>
 <ul>
-<li>🍌 2 bananas</li>
-<li>🥛 500ml milk</li>
-<li>🥄 2 tsp sugar</li>
+<li>🥛 500 ml milk</li>
+<li>🍵 2 tsp matcha powder</li>
+<li>🥄¼ tsp ground cinnamon</li>
+<li>🍯sugar or honey to sweeten</li>
 </ul>
 <h2>🔢 Instructions</h2>
 <ol>
-<li>Add ingredients and crush at 30s//s7</li>
+<li>Heat milk at 4m/80C/s2</li>
+<li>Add matcha, cinnamon and sweetener and mix at 30s/80C/s6</li>
 </ol>
-<h2>💡 Ideas</h2>
-<ul>
-<li>🧊 add ice cubes for freshness</li>
-<li>add cinnamon for more flavor</li>
-</ul>
 </main>
 
 <!--#include virtual="/templates/footer.html" -->

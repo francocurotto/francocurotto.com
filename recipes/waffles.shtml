@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Franco's Website</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="/css/style.css">
+</head>
+
+<body>
+<!--#include virtual="/templates/header.html" -->
+
+<main>
+<h2>📋 Ingredients</h2>
+<ul>
+<li>🍞 100 g all-purpose flour with baking powder</li>
+<li>🧂 25 g granulated sugar</li>
+<li>🧂 1/4 tsp salt</li>
+<li>🥛 125 ml milk (whole or semi-skimmed)</li>
+<li>🧈 30 g unsalted butter, melted</li>
+<li>🥚 1 large egg</li>
+<li>🥄 1 tsp vanilla extract</li>
+</ul>
+<h2>🔢 Instructions</h2>
+<ol>
+<li>Mix ingredients in Thermomix</li>
+<li>Put silicone mold in Air Fryer and preheat at 200°C</li>
+<li>Put mix in mold and cook at 200°C for 8-10 minutes</li>
+</ol>
+</main>
+
+<!--#include virtual="/templates/footer.html" -->
+</body>

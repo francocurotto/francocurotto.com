@@ -3,4 +3,7 @@
         - El caso sustituto
         - jp lyrics
     - recipies
+        - add titles
+        - better style for thermomix controls
+        - correct waffles instructions
 - add blog

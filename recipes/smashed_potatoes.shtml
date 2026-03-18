@@ -13,19 +13,23 @@
 <main>
 <h2>📋 Ingredients</h2>
 <ul>
-<li>🍌 2 bananas</li>
-<li>🥛 500ml milk</li>
-<li>🥄 2 tsp sugar</li>
+<li>🥔 500g potatoes</li>
+<li>🎃 300g pumpkins</li>
+<li>💧 500g water</li>
+<li>🥛 100g milk</li>
+<li>🧈 30g butter</li>
+<li>🧂 salt</li>
 </ul>
 <h2>🔢 Instructions</h2>
 <ol>
-<li>Add ingredients and crush at 30s//s7</li>
+<li>Cut potatoes and pumpkin</li>
+<li>Put water in bowl</li>
+<li>Add potatoes and pumpkin in basket</li>
+<li>Cook at 25m/var/s1</li>
+<li>Discard water and add potatoes and pumpkin in bowl</li>
+<li>Add butter, salt and milk</li>
+<li>Crush at 30s//s5</li>
 </ol>
-<h2>💡 Ideas</h2>
-<ul>
-<li>🧊 add ice cubes for freshness</li>
-<li>add cinnamon for more flavor</li>
-</ul>
 </main>
 
 <!--#include virtual="/templates/footer.html" -->

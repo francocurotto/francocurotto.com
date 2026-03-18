@@ -13,24 +13,23 @@
 <main>
 <h2>📋 Ingredients</h2>
 <ul>
-<li>🥚 1 egg</li>
-<li>🥛 60 ml of milk</li>
-<li>🍞 4 slices of bread</li>
-<li>🥄 ½ spoon of ml vanilla</li>
-<li>🤏 pinch cinnamon</li>
-<li>🥞 syrup</li>
+<li>🍓 250g strawberries</li>
+<li>🥛 250ml milk</li>
+<li>🍦150g yogurt</li>
+<li>🥄 2 tsp sugar</li>
+<li>🧊 6 ice cubes</li>
 </ul>
 <h2>🔢 Instructions</h2>
 <ol>
-<li>Mix ingredients in bowl</li>
-<li>Soak breads in mix and cook in pan with butter until brown</li>
-<li>Cut each bread in 4</li>
-<li>Decorate with syrup</li>
+<li>Clean strawberries and remove stem</li>
+<li>Add ingredients (except ice) and crush at 1m//s10</li>
+<li>Add ice and crush at 30s//s8</li>
 </ol>
 <h2>💡 Ideas</h2>
 <ul>
-<li>Add berries 🫐, straberries 🍓 or bananas 🍌 to decorate</li>
+<li>Add a banana 🍌 for extra creaminess</li>
 </ul>
+</main>
 
 <!--#include virtual="/templates/footer.html" -->
 </body>
