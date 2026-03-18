@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Franco's Website</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+<!--#include virtual="/templates/header.html" -->
+
+<main>
+<h2>🙋 Personal Projects</h2>
+<ul>
+<li><b>🇯🇵 JP Lyrics:</b>List of Japanese songs lyrics with romaji and english translation.</li>
+<li><b>🇪🇸 El Caso Sustituto:</b>Spanish translation of an Ace Attorney fan game.</li>
+<li><b>💻️ FRANK6000:</b>Spanish translation of an Ace Attorney fan game.</li>
+</ul>
+<h2>🧑‍🎓 University Projects</h2>
+<ul>
+<li><a href="https://github.com/francocurotto/GraphSLAM"><b>🤖 GraphSLAM:</b></a>Simultaneous Localizaton And Mapping algorithm using the g2o framework.</li>
+<li><a href="https://github.com/francocurotto/Video-Stabilization"><b>🎥 Video Stabilization:</b></a>Video stabilization algorithm using the ORB descriptor.</li>
+<li><a href="https://github.com/francocurotto/Markiv-Reduction"><b>⛓️ Markov Reduction:</b></a>Markov chain simplification algorithm using an information theoretic approach..</li>
+</ul>
+</main>
+
+<!--#include virtual="/templates/footer.html" -->
+</body>
