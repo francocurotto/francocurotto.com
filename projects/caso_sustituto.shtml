@@ -14,44 +14,21 @@
 <h2>🇪🇸 El Caso Sustituto</h2>
 <p><img src="/assets/images/projects/caso_sustituto/20220715-caso-sustituto.png"
 alt="Turnabout Substitution" /></p>
-<p>En 2014 hice una traducción del juego fanmade Turnabout Substitution
-creado por Ping’. El juego pretende ser el faltante quinto caso de
-Apollo Justice Ace Attorney, de la saga de video juegos Ace Attorney. En
-esa época quedé tan impresionado con el juego, que me di la tarea de
-traducirlo al español considerando que todos los juegos oficiales de la
-saga ya tenían traducción hasta ese entonces.</p>
-<p>Hace poco decidí intentar revivir esa traducción, dado que ya no se
-podía jugar debido a problemas de compatibilidad con el programa
-PyWright para correr el juego. Sorprendentemente fue relativamente fácil
-hacerlo funcionar nuevamente!</p>
-<p><img src="/assets/images/projects/caso_sustituto/20220715-caso-sustituto-2.png"
-alt="Ejemplo traducción" /></p>
-<p>Acá les dejo las instrucciones para los interesados. Está considerado
-solo para usuarios de Windows (probado en Windows 11):</p>
-<ol >
-<li>Descargar una versión modificada de PyWright que hice para aceptar
-caracteres en español (ñ, vocales con tilde, etc.), y descomprimir: <a
-href="https://u.pcloud.link/publink/show?code=XZqty8VZClDzJUNabt0WxepU1HJjw0FKlyk0">link🔗</a></li>
-<li>Descargar El Caso Sustituto, la versión traducida que hice de
-Turnabout Substitution, y descomprimir: <a
-href="https://u.pcloud.link/publink/show?code=XZdty8VZLBCk9AMH31SlnhJh7RUSRbqqyUkk">link🔗</a></li>
-<li>Mover la carpeta <code>El Caso Sustituto</code> a la ubicación
-<code>PyWright/games</code>.</li>
-<li>Ejecutar <code>PyWright.exe</code> y seguir las instrucciones del
-programa.</li>
+<p>En 2014 hice una traducción del juego fanmade Turnabout Substitution creado por Ping’. El juego pretende ser el faltante quinto caso de Apollo Justice Ace Attorney, de la saga de video juegos Ace Attorney. En esa época quedé tan impresionado con el juego, que me di la tarea de traducirlo al español considerando que todos los juegos oficiales de la saga ya tenían traducción hasta ese entonces.</p>
+<p>Hace poco decidí intentar revivir esa traducción, dado que ya no se podía jugar debido a problemas de compatibilidad con el programa PyWright para correr el juego. Sorprendentemente fue relativamente fácil hacerlo funcionar nuevamente!</p>
+<p><img src="/assets/images/projects/caso_sustituto/20220715-caso-sustituto-2.png" alt="Ejemplo traducción" /></p>
+<p>Acá les dejo las instrucciones para los interesados. Está considerado solo para usuarios de Windows (probado en Windows 11):</p>
+<ol>
+<li>Descargar una versión modificada de PyWright que hice para aceptar caracteres en español (ñ, vocales con tilde, etc.), y descomprimir: <a href="https://u.pcloud.link/publink/show?code=XZqty8VZClDzJUNabt0WxepU1HJjw0FKlyk0">link🔗</a></li>
+<li>Descargar El Caso Sustituto, la versión traducida que hice de Turnabout Substitution, y descomprimir: <a href="https://u.pcloud.link/publink/show?code=XZdty8VZLBCk9AMH31SlnhJh7RUSRbqqyUkk">link🔗</a></li>
+<li>Mover la carpeta <code>El Caso Sustituto</code> a la ubicación <code>PyWright/games</code>.</li>
+<li>Ejecutar <code>PyWright.exe</code> y seguir las instrucciones del programa.</li>
 </ol>
-<p>IMPORTANTE: No usar la versión de <a
-href="http://pywright.dawnsoft.org/">PyWright</a> que se encuentra en
-internet. Esta versión no funciona con caracteres en español, y se
-vuelve imposible de jugar.</p>
+<p>IMPORTANTE: No usar la versión de <a href="http://pywright.dawnsoft.org/">PyWright</a> que se encuentra en internet. Esta versión no funciona con caracteres en español, y se vuelve imposible de jugar.</p>
 <h3>Créditos</h3>
 <ul>
-<li><a href="http://pywright.dawnsoft.org/">PyWright</a>: El programa
-para crear y jugar juegos fanmade de Ace Attorney</li>
-<li><a href="http://turnaboutsub.weebly.com/">Turnabout
-Substitution</a>: El juego original en inglés creado por Ping’. Todos
-los créditos por la historia, diálogos, arte, música, etc. son para
-Ping’ y el equipo de desarrollo.</li>
+<li><a href="http://pywright.dawnsoft.org/">PyWright</a>: El programa para crear y jugar juegos fanmade de Ace Attorney</li>
+<li><a href="http://turnaboutsub.weebly.com/">Turnabout Substitution</a>: El juego original en inglés creado por Ping’. Todos los créditos por la historia, diálogos, arte, música, etc. son para Ping’ y el equipo de desarrollo.</li>
 </ul>
 </main>
 

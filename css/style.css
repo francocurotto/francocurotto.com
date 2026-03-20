@@ -84,3 +84,8 @@ code {
   font-family: monospace;
   border: 1px solid #d0d7e2;
 }
+
+.lyrics {
+  text-align: center;
+  white-space: pre-line;
+}
