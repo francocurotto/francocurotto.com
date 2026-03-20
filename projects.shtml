@@ -13,7 +13,7 @@
 <main>
 <h2>🙋 Personal Projects</h2>
 <ul>
-<li><b>🇯🇵 JP Lyrics:</b> List of Japanese songs lyrics with romaji and english translation.</li>
+<li><a href="projects/jp_lyrics.shtml"><b>🇯🇵 JP Lyrics:</b></a> List of Japanese songs lyrics with romaji and english translation.</li>
 <li><a href="projects/caso_sustituto.shtml"><b>🇪🇸 El Caso Sustituto:</b></a> Spanish translation of an Ace Attorney fan game.</li >
 <li><a href="https://github.com/francocurotto/FRANK6000"><b>💻️ FRANK6000:</b></a> Spanish translation of an Ace Attorney fan game.</li>
 </ul>

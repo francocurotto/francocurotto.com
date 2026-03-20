@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Franco's Website</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="/css/style.css">
+</head>
+
+<body>
+<!--#include virtual="/templates/header.html" -->
+
+<main>
+<h2>🇯🇵 JP Lyrics</h2>
+<p>List of Japanese songs lyrics with English and <i>romaji</i> translations for Japanese learning practice.</p>
+<h3>💃🏻💃🏻💃🏻 Perfume</h3>
+<ul>
+<li><a href="jp_lyrics/chocolate_disco.shtml">Chocolate Disco</a></li>
+</ul>
+</main>
+
+<!--#include virtual="/templates/footer.html" -->
+</body>
