@@ -4,14 +4,14 @@
 <meta charset="utf-8">
 <title>Franco's Website</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="css/style.css">
+<link rel="stylesheet" href="/style.css">
 </head>
 
 <body>
 <!--#include virtual="/templates/header.html" -->
 
 <main>
-<img class="avatar" src="assets/images/profile_alma.jpg" alt="Franco at the ALMA Observatory">
+<img class="avatar" src="assets/profile_alma.jpg" alt="Franco at the ALMA Observatory">
 <p>Hi 👋 I'm Franco.</p>
 <p>I'm an Electronics Engineer from  Chile 🇨🇱. I have worked mostly in radio astronomy 📡. I'm currently working as a Laboratory Manager 👨‍🔬 in the research center <a href="https://cata.cl">CATA</a>. I'm also an emoji expert 😎🔥.</p>
 <p>In my free time I like to learn about technology 💻️, read about history 📜, and (very slowly) learn the Japanese language 🇯🇵.</p>

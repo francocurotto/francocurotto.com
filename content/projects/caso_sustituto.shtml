@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <title>Franco's Website</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="/css/style.css">
+<link rel="stylesheet" href="/style.css">
 </head>
 
 <body>
@@ -12,11 +12,11 @@
 
 <main>
 <h2>🇪🇸 El Caso Sustituto</h2>
-<p><img src="/assets/images/projects/caso_sustituto/20220715-caso-sustituto.png"
+<p><img src="/assets/projects/caso_sustituto/20220715-caso-sustituto.png"
 alt="Turnabout Substitution" /></p>
 <p>En 2014 hice una traducción del juego fanmade Turnabout Substitution creado por Ping’. El juego pretende ser el faltante quinto caso de Apollo Justice Ace Attorney, de la saga de video juegos Ace Attorney. En esa época quedé tan impresionado con el juego, que me di la tarea de traducirlo al español considerando que todos los juegos oficiales de la saga ya tenían traducción hasta ese entonces.</p>
 <p>Hace poco decidí intentar revivir esa traducción, dado que ya no se podía jugar debido a problemas de compatibilidad con el programa PyWright para correr el juego. Sorprendentemente fue relativamente fácil hacerlo funcionar nuevamente!</p>
-<p><img src="/assets/images/projects/caso_sustituto/20220715-caso-sustituto-2.png" alt="Ejemplo traducción" /></p>
+<p><img src="/assets/projects/caso_sustituto/20220715-caso-sustituto-2.png" alt="Ejemplo traducción" /></p>
 <p>Acá les dejo las instrucciones para los interesados. Está considerado solo para usuarios de Windows (probado en Windows 11):</p>
 <ol>
 <li>Descargar una versión modificada de PyWright que hice para aceptar caracteres en español (ñ, vocales con tilde, etc.), y descomprimir: <a href="https://u.pcloud.link/publink/show?code=XZqty8VZClDzJUNabt0WxepU1HJjw0FKlyk0">link🔗</a></li>
