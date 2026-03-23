@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Franco's Website</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="/style.css">
+</head>
+
+<body>
+<!--#include virtual="/templates/header.html" -->
+
+<main>
+<h2>Computer Obaachan</h2>
+<div class="lyrics">
+コンピューターおばあちゃん、コンピューターおばあちゃん
+KONPYUUTAA OBAACHAN, KONPYUUTAA OBAACHAN
+<strong>Computer Grandma, Computer Grandma</strong>
+
+ウォウウォウウォウウォウウォウォウォ
+WOUWOU WOUWOU WOWOWO
+<strong>Woah woah, woah woah, woah woah woah!</strong>
+
+ぼくのおばあちゃんは、明治生まれのコンピューター
+BOKU NO OBAACHAN WA, MEIJI UMARE NO KONPYUUTAA
+<strong>My grandma is a computer born in the Meiji era</strong>
+
+算数国語社会、何でもドンと来いさ
+SANSUU KOKUGO SHAKAI, NAN DEMO DON TO KOI SA
+<strong>Maths, Literature, Social Studies - anything is fine!</strong>
+
+物知り博学、足腰カクシャク、元気にワンツースリー
+MONOSHIRI HAKUGAKU, ASHIKOSHI KAKUSHAKU, GENKI NI WAN TSUU SURII
+<strong>A know-it-all, the wise one with legs and hips in great shape - one, two, three</strong>
+
+英語もラクラク、義歯をカクカク、得意のABC
+EIGO MO RAKURAKU, IREBA O KAKUKAKU, TOKUI NO ABC
+<strong>English is a no-brainer, with her dentures clacking she does her ABCs</strong>
+
+
+コンピューターおばあちゃん、コンピューターおばあちゃん
+KONPYUUTAA OBAACHAN, KONPYUUTAA OBAACHAN
+<strong>Computer Grandma, Computer Grandma</strong>
+
+イェイイェイ、ぼくは大好きさ
+YEIYEI, BOKU WA DAISUKI SA
+<strong>Yay, yay, I love her so much!</strong>
+
+
+ずっといつまでも、長生きしてください
+ZUTTO ITSUMADE MO, NAGAIKISHITE KUDASAI
+<strong>Please keep living on for forever</strong>
+
+夢の宇宙旅行、きっと出来る日が来る
+YUME NO UCHUURYOKOU, KITTO DEKIRU HI GA KURU"
+<strong>Soon the day will come where you fulfil your dream of space travel</strong>
+
+
+バミューダ海域、ハワイはワイキキ、世界をまたに
+BAMYUUDA KAIIKI, HAWAI WA WAIKIKI, SEKAI WO MATA NI
+<strong>Bermuda islands, Hawaii and Waikiki, all across the world</strong>
+
+百聞一見　事件を発見、Let's go! おばあちゃん
+HYAKUBUN IKKEN, JIKEN WO HAKKEN, LET'S GO OBAACHAN!
+<strong>Seeing is believing, seeing things happen - let's go, grandma!</strong>
+
+
+コンピューターおばあちゃん、コンピューターおばあちゃん
+KONPYUUTAA OBAACHAN, KONPYUUTAA OBAACHAN
+<strong>Computer Grandma, Computer Grandma</strong>
+
+イェイイェイ、ぼくは大好きさ
+YEIYEI, BOKU WA DAISUKI SA
+<strong>Yay, yay - I love her so much!</strong>
+
+コンピューターおばあちゃん、コンピューターおばあちゃん
+KONPYUUTAA OBAACHAN, KONPYUUTAA OBAACHAN
+<strong>Computer Grandma, Computer Grandma</strong>
+
+イェイイェイ、ぼくは大好きさ
+YEIYEI, BOKU WA DAISUKI SA
+<strong>Yay, yay - I love her so much!</strong>
+
+</div>
+</main>
+
+<!--#include virtual="/templates/footer.html" -->
+</body>
