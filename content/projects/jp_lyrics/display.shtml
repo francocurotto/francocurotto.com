@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Franco's Website</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="/style.css">
+</head>
+
+<body>
+<!--#include virtual="/templates/header.html" -->
+
+<main>
+<h2>Display</h2>
+<div class="lyrics">
+新鲜な体験と共に
+SHINSEN NA TAIKEN TO TOMO NI
+<strong>With a brand-new experience</strong>
+
+繊细なこの光の中に
+SENSAI NA KONO HIKARI NO NAKA NI
+<strong>Surrounded by this delicate light</strong>
+
+Feeling you　滑らかな彩り
+FEELING YOU, NAMERAKA NA IRODORI
+<strong>Feeling you, a smooth colouration</strong>
+
+想像じゃおそまらないほどに
+SOUZOU JA OSAMARANAI HODO NI
+<strong>More than I can even imagine</strong>
+
+
+Feeling true my world
+FEELING TRUE MY WORLD
+<strong>Feeling true my world</strong>
+
+Feeling true my world
+FEELING TRUE MY WORLD
+<strong>Feeling true my world</strong>
+
+Feeling true my world
+FEELING TRUE MY WORLD
+<strong>Feeling true my world</strong>
+
+Feeling true my world
+FEELING TRUE MY WORLD
+<strong>Feeling true my world</strong>
+
+
+新鲜な体験と共に
+SHINSEN NA TAIKEN TO TOMO NI
+<strong>With a brand-new experience</strong>
+
+连れて行ってその奥にDISPLAY
+TSURETEITTE SONO OKU NI DISPLAY
+<strong>Take me deep inside that display</strong>
+
+繊细なこの光の中に
+SENSAI NA KONO HIKARI NO NAKA NI
+<strong>Surrounded by this delicate light</strong>
+
+苏るあの時ならplay now
+YOMIGAERU ANO TOKI NARA PLAY NOW
+<strong>If it's that moment looping back, play now</strong>
+
+Feeling you 滑らかな彩り
+FEELING YOU, NAMERAKA NA IRODORI
+<strong>Feeling you, a smooth colouration,</strong>
+
+このまま飛び込みたいgood day
+KONO MAMA TOBIKOMITAI GOOD DAY
+<strong>Just like this, I want to dive into a good day</strong>
+
+想像じゃおそまらないほどに
+SOUZOU JA OSAMARANAI HODO NI
+<strong>More than I can even imagine,</strong>
+
+连れて行って僕たちの DISPLAY
+TSURETEITTE BOKU-TACHI NO DISPLAY
+<strong>Take me to our display</strong>
+
+
+DISPLAY DISPLAY DISPLAY DISPLAY
+DISPLAY DISPLAY DISPLAY DISPLAY
+<strong>DISPLAY DISPLAY DISPLAY DISPLAY</strong>
+
+DISPLAY DISPLAY DI-DI-DISPLAY
+DISPLAY DISPLAY DI-DI-DISPLAY
+<strong>DISPLAY DISPLAY DI-DI-DISPLAY</strong>
+
+
+Feeling true my world
+FEELING TRUE MY WORLD
+<strong>Feeling true my world</strong>
+
+Feeling true my world
+FEELING TRUE MY WORLD
+<strong>Feeling true my world</strong>
+
+Feeling true my world
+FEELING TRUE MY WORLD
+<strong>Feeling true my world</strong>
+
+Feeling true my world
+FEELING TRUE MY WORLD
+<strong>Feeling true my world</strong>
+</div>
+</main>
+
+<!--#include virtual="/templates/footer.html" -->
+</body>

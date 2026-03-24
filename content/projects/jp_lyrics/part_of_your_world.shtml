@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Franco's Website</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="/style.css">
+</head>
+
+<body>
+<!--#include virtual="/templates/header.html" -->
+
+<main>
+<h2>Part Of Your World</h2>
+<div class="lyrics">
+よくみて、素敵ね
+YOKU MITE, SUTEKI NE
+<strong>Have a look, isn't is wonderful?</strong>
+
+これもっと完璧
+KORE DE MOTTO KANPEKI
+<strong>With this it's even more complete</strong>
+
+なんでも持ってる私はすべて
+NANDEMO MOTTERU WATASHI WA SUBETE
+<strong>I have everything, I've got all</strong>
+
+
+まわりじ中取り囲む
+MAWARI JUU TORI KAKOMU
+<strong>Looking arround on all the things surrounding me</strong>
+
+なんてたくさんの宝物
+NANTE TAKUSAN NO TAKARAMONO
+<strong>How many treasures I have</strong>
+
+陸にあるもの全部手にいれた
+RIKU NI ARU MONO ZENBU TE NI IRETA
+<strong>I have obtained all things from land</strong>
+
+何に使う物かも知らないの名前も
+NANI NI TSUKAU MONO KAMO SHIRANAI NO NAMAE MO
+<strong>Things I don't know how to use or know the name of</strong>
+
+ねえこれ欲しい？二十個もあるの
+NEE, KORE HOSHII? NIJUUKO MO ARU NO
+<strong>Hey, do you want this? I have twenty</strong>
+
+だけど足りないなにか
+DAKEDO TARINAI NANIKA
+<strong>But they're not enough</strong>
+
+
+人間の住む国で
+NINGEN NO SUMU KUNI DE
+<strong>In the land where human live</strong>
+
+見たいな素敵なダンス
+MITAINA SUTEKINA DANSU
+<strong>There's a wonderful dance I want to see</strong>
+
+そして歩く。。。なんて言った？
+SOSHITE ARUKU... NANTE ITTA?
+<strong>And walking... What's it called?</strong>
+
+あ。。。足
+AH... ASHI
+<strong>Ah... feet</strong>
+
+
+ヒレじゃ遠くへ行けない
+HIRE JA TOOKU E YUKENAI
+<strong>With fins you can't go very far</strong>
+
+足がいるわ踊ったり散歩したり
+ASHI GA IRU WA ODOTTARI SANPO SHITARI
+<strong>With legs you can dance or take a walk</strong>
+
+どこを歩くだっけ？道
+DOKO WO ARUKU DAKKE? MICHI
+<strong>Where do they walk? Street</strong>
+
+歩いて、走って、日の光あびながら
+ARUITE, HASHITTE, HI NO HIKARI ABI NAGARA
+<strong>To walk, to run, while basking in the light of the sun</strong>
+
+自由に人間の世界で
+JIYUU NI NINGEN NO SEKAI DE
+<strong>Free, in the world of  humans</strong>
+
+
+なんでもあげるわここを出て
+NANDEMO AGERU WA KOKO WO DETE
+<strong>I would do anything to get out of this place</strong>
+
+温かい砂の上で眠れたら
+ATATAKAI SUNA NO UE DE NEMURETARA
+<strong>To be able to sleep on the warm sand</strong>
+
+陸ねはいないわあんあわからずやは
+RIKU NI WA INAI WA ANNA WAKARAZUYA WA
+<strong>On the shore, stubborn people are unheard of</strong>
+
+私は子供じゃないのよ
+WATASHI WA KODOMO JANAI NO YO
+<strong>I'm not a child!</strong>
+
+
+ああ、わからないことたくさん
+AH, WAKARANAI KOTO TAKUSAN
+<strong>Ah, there are many things I don't know</strong>
+
+教えてほしいことたくさん
+OSHIETE HOSHII KOTO TAKUSAN
+<strong>There are make thing I want them to teach me</strong>
+
+なぜ火は燃えるの教えて
+NAZE HI WA MOERU NO OSHIETE
+<strong>Why does the a fire burn? Tell me!</strong>
+
+いつの日か陸の世界の果てまでも行きたい
+ITSU NO HI KA RIKU NO SEKAI NO HATE MADE MO YUKITAI
+<strong>One day I want to go to the end of the world of land</strong>
+
+人間の世界へ
+NINGEN NO SEKAI E
+<strong>To the world of humans</strong>
+</div>
+</main>
+
+<!--#include virtual="/templates/footer.html" -->
+</body>

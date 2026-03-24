@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Franco's Website</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="/style.css">
+</head>
+
+<body>
+<!--#include virtual="/templates/header.html" -->
+
+<main>
+<h2>Party Maker</h2>
+<div class="lyrics">
+手をかざして、光を感じて
+TE WO KAZASHITE, HIKARI WO KANJITE
+<strong>Put your hands up and feel the light</strong>
+
+体突くこのスピーカー
+KARADA TSUKU KONO SUPIIKAA
+<strong>These speakers pulse into our bodies</strong>
+
+頭揺らすこのリズム
+ATAMA YURASU KONO RIZUMU
+<strong>We shake our heads to this rhythm</strong>
+
+
+もっと欲しいでしょ
+MOTTO HOSHII DESHO
+<strong>You want more, don’t you?</strong>
+
+みんなで上げて
+MINNA DE AGETE
+<strong>Everybody get pumped</strong>
+
+包みこもうこのステージ
+TSUTSUMI KO MOUKO NO SUTEEJI
+<strong>Let’s wrap ourselves up in this stage</strong>
+
+盛り上げて
+MORIAGETE
+<strong>Get hyped up</strong>
+
+このフロア揺らして
+KONO FUROA YURASHITE
+<strong>Let's rock this floor</strong>
+
+もっと、揺らして、もっと
+MOTTO, YURASHITE, MOTTO
+<strong>More, shake it more</strong>
+
+
+Your Party Maker
+YOUR PARTY MAKER
+<strong>Your Party Maker</strong>
+
+手をかざして、光を感じて
+TE WO KAZASHITE HIKARI WO KANJITE
+<strong>Put your hands up and feel the light</strong>
+
+体突くこのスピーカー
+KARADA TSUKU KONO SUPIIKAA
+<strong>These speakers pulse into our bodies</strong>
+
+頭揺らすこのリズム
+ATAMA YURASU KONO RIZUMU
+<strong>We shake our heads to this rhythm</strong>
+
+
+もっと欲しいでしょ
+MOTTO HOSHII DESHO
+<strong>You want more, don’t you?</strong>
+
+みんなで上げて
+MINNA DE AGETE
+<strong>Everybody get pumped</strong>
+
+包みこもうこのステージ
+TSUTSUMI KO MOUKO NO SUTEEJI
+<strong>Let’s wrap ourselves up in this stage</strong>
+
+盛り上げて
+MORIAGETE
+<strong>Get hyped up</strong>
+
+このフロア揺らして
+KONO FUROA YURASHITE
+<strong>Let's rock this floor</strong>
+
+もっと、揺らして、もっと
+MOTTO, YURASHITE, MOTTO
+<strong>More, shake it more</strong>
+
+Your Party Maker
+YOUR PARTY MAKER
+<strong>Your Party Maker</strong>
+
+
+Your Party Maker
+YOUR PARTY MAKER
+<strong>Your Party Maker</strong>
+</div>
+</main>
+
+<!--#include virtual="/templates/footer.html" -->
+</body>

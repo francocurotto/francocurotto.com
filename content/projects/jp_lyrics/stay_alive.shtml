@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Franco's Website</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="/style.css">
+</head>
+
+<body>
+<!--#include virtual="/templates/header.html" -->
+
+<main>
+<h2>Stay Alive</h2>
+<div class="lyrics">
+未完成のパズル
+MIKANSEI NO PAZURU
+<strong>This puzzle is incomplete</strong>
+
+どうしてだろう?
+DOUSHITE DAROU
+<strong>I don't know why</strong>
+
+何かが足りない
+NANIKA GA TARINAI
+<strong>but I can tell something is missing</strong>
+
+行き違いの運命
+IKICHIGAI NO UNMEI
+<strong>Our fates have become misaligned</strong>
+
+離れてゆくことも　知りながら
+HANARETEYUKU KOTO MO SHIRINAIGARA
+<strong>But even knowing that they'll drift further away</strong>
+
+また歩く
+MATA ARUKU
+<strong>I walk again</strong>
+
+
+I Stay... Alive
+I STAY... ALIVE
+<strong>I Stay... Alive</strong>
+
+今は独り闇を彷徨うだけ
+IMA WA HITORI YAMI O SAMAYOU DAKE
+<strong>Now I'm wandering alone through the darkness</strong>
+
+想定外の切なさが
+SUTEIGAI NO SETSUNASA GA
+<strong>That unexpectedly crippling pain</strong>
+
+胸の中消えぬままで
+MUNE NO NAKA KIENU MAMA DE
+<strong>Remains in my heart, never fading</strong>
+
+
+不安定な思想
+FUANTEI NA SHISOU
+<strong>My thoughts are unstable</strong>
+
+離れ過ぎて
+HANARE SUGITE
+<strong>They've strayed too far</strong>
+
+片方見えない
+KATAHOU MIENAI
+<strong>until one side is out of sight</strong>
+
+目印さえないから
+MEJIRUSHI SAE NAI KARA
+<strong>There's no sign to guide my way,</strong>
+
+ふっと目を閉じては
+FUTO ME O TOJITE WA
+<strong>So closing my eyes suddenly,</strong>
+
+また祈る
+MATA INORU
+<strong>I pray again...</strong>
+
+
+Oh, Stay... Alive
+OH, STAY... ALIVE
+<strong>Oh, Stay... Alive -</strong>
+
+今はどんなこと思ってるのでしょう?
+IMA WA DONNA KOTO OMOTTERU NO DESHO
+<strong>I wonder what you're thinking right now...</strong>
+
+泣いていないけど　独りは
+NAITEINAI KEDO HITORI WA
+<strong>I haven't cried yet,</strong>
+
+やっぱり　寂しくってさ
+YAPPARI SABISHIKUTE SA
+<strong>But I do feel lonesome all by myself...</strong>
+
+ずっと　祈った
+ZUTTO INOTTA
+<strong>I've prayed all this time</strong>
+
+Stay Alive... Stay Alive... Stay Alive!
+STAY ALIVE... STAY ALIVE... STAY ALIVE!
+<strong>Stay Alive... Stay Alive... Stay Alive!</strong>
+
+
+未完成のパズル
+MIKANSEI NO PAZURU
+<strong>This incomplete puzzle</strong>
+
+うまくいかなくて
+UMAKU IKANAKUTE
+<strong>Just won't come together</strong>
+
+音もない澄んだ風に
+OTO MO NAI SUNDA KAZE NI
+<strong>As the wind eases soundlessly</strong>
+
+心揺らす
+KOKORO YURASU
+<strong>My heart wavers</strong>
+
+
+I Stay... Alive
+I STAY... ALIVE
+<strong>I Stay... Alive</strong>
+
+今はここで何をしてるの
+IMA WA DOKO DE NANI WO SHITERU NO
+<strong>I wonder where you are... what you're doing?</strong>
+
+Stay 意外にも切なさが
+SUTEIGAI NO SETSUNASA GA
+<strong>That unexpectedly crippling pain</strong>
+
+胸の中　消えぬままで
+MUNE NO NAKA KIENU MAMA DE
+<strong>Remains in my heart, never fading</strong>
+
+Stay Alive
+STAY ALIVE
+<strong>Stay Alive</strong>
+</div>
+</main>
+
+<!--#include virtual="/templates/footer.html" -->
+</body>

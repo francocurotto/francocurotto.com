@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Franco's Website</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="/style.css">
+</head>
+
+<body>
+<!--#include virtual="/templates/header.html" -->
+
+<main>
+<h2>Polyrhythm</h2>
+<div class="lyrics">
+とても大事なキミの想いは
+TOTEMO DAIJI NA KIMI NO OMOI WA
+<strong>Your very precious thoughts</strong>
+
+無駄にならない世界は廻る
+MUDA NI NARANAI SEKAI WA MAWARU
+<strong>Are not to be wasted and world keeps turning</strong>
+
+ほんの少しの僕の気持ちも
+HONNO SUKOSHI NO BOKU NO KIMOCHI MO
+<strong>My little feelings</strong>
+
+巡り巡るよ
+MEGURI MEGURU YO
+<strong>Also keeps going round and round</strong>
+
+
+くり返すこのポリリズム
+KURIKAESU KONO PORIRIZUMU
+<strong>Repeating this polyrhythm</strong>
+
+あの衝動はまるで恋だね
+ANO SHOUDOU WA MARU DE KOI DA NE
+<strong>That impulse, just like love</strong>
+
+くり返すいつかみたいな
+KURIKAESU ITSUKA MITAI NA
+<strong>Repeating, just like when</strong>
+
+あの光景が甦るの
+ANO KOUKEI GA YOMIGAERU NO
+<strong>That scenery comes back to life</strong>
+
+くり返すこのポリリズム
+KURIKAESU KONO PORIRIZUMU
+<strong>Repeating this polyrhythm</strong>
+
+あの反動がうそみたいだね
+ANO HANDOU GA USO MITAI DA NE
+<strong>That reaction, feels unreal</strong>
+
+くり返すこのポリループ
+KURIKAESU KONO PORIRUUPU
+<strong>Repeating this polyloop</strong>
+
+ああプラスチックみたいな恋だ
+AA PURASUCHIKKU MITAI NA KOI DA
+<strong>Ah, this love is like plastic</strong>
+
+
+またくり返す
+MATA KURIKAESU
+<strong>It repeats again</strong>
+
+このポリリズム
+KONO PORIRIZUMU
+<strong>This polyrhythm</strong>
+
+このポリリズム
+KONO PORIRIZUMU
+<strong>This polyrhythm</strong>
+
+このポリリズム
+KONO PORIRIZUMU
+<strong>This polyrhythm</strong>
+
+ポリリズム, ポリリズム, ポリリズム, ポリリズム
+PORIRIZUMU, PORIRIZUMU, PORIRIZUMU, PORIRIZUMU
+<strong>Polyrhythm, polyrhythm, polyrhythm, polyrhythm</strong>
+
+ポリリズム, ポリリズム, ポリリズム, ポリリズム
+PORIRIZUMU, PORIRIZUMU, PORIRIZUMU, PORIRIZUMU
+<strong>Polyrhythm, polyrhythm, polyrhythm, polyrhythm</strong>
+
+ポリリズム, リズム, リズム, リズム, リズム, リズム, リズム
+PORIRIZUMU, RIZUMU, RIZUMU, RIZUMU, RIZUMU, RIZUMU, RIZUMU
+<strong>Polyrhythm, rhythm, rhythm, rhythm, rhythm, rhythm, rhythm</strong>
+
+ポリループ, ポリループ, ポリループ, ポリループ
+PORIRUUPU, PORIRUUPU, PORIRUUPU, PORIRUUPU
+<strong>Polyloop, polyloop, polyloop, polyloop</strong>
+
+ポリループ, ポリループ, ループ, ループ, ループ, ループ, ループ
+PORIRUUPU, PORIRUUPU, RUUPU, RUUPU, RUUPU, RUUPU, RUUPU
+<strong>Polyloop, polyloop, loop, loop, loop, loop, loop</strong>
+
+
+ほんの少しの僕の気持ちが
+HONNO SUKOSHI NO BOKU NO KIMOCHI GA
+<strong>My little feeling</strong>
+
+キミに伝わるそう信じてる
+KIMI NI TSUTAWARU SOU SHINJITERU
+<strong>I believe it will reach you</strong>
+
+
+とても大事なキミの想いは
+TOTEMO DAIJI NA KIMI NO OMOI WA
+<strong>Your very precious thoughts</strong>
+
+無駄にならない世界は廻る
+MUDA NI NARANAI SEKAI WA MAWARU
+<strong>Are not to be wasted and world keeps turning</strong>
+
+ほんの少しの僕の気持ちも
+HONNO SUKOSHI NO BOKU NO KIMOCHI MO
+<strong>My little feelings</strong>
+
+巡り巡るよ
+MEGURI MEGURU YO
+<strong>Also keeps going round and round</strong>
+
+
+くり返すこのポリリズム
+KURIKAESU KONO PORIRIZUMU
+<strong>Repeating this polyrhythm</strong>
+
+あの衝動はまるで恋だね
+ANO KOUDOU WA MARU DE KOI DA NE
+<strong>That action, just like love</strong>
+
+くり返すいつかみたいな
+KURIKAESU ITSUKA MITAI NA
+<strong>Repeating, just like when</strong>
+
+あの光景が甦るの
+ANO KANJOU GA YOMIGAERU NO
+<strong>That affection comes back to life</strong>
+
+くり返すこのポリリズム
+KURIKAESU KONO PORIRIZUMU
+<strong>Repeating this polyrhythm</strong>
+
+あの反動がうそみたいだね
+ANO HANDOU GA USO MITAI DA NE
+<strong>That reaction, feels unreal</strong>
+
+くり返すこのポリループ
+KURIKAESU KONO PORIRUUPU
+<strong>Repeating this polyloop</strong>
+
+ああプラスチックみたいな恋だ
+AA PURASUCHIKKU MITAI NA KOI DA
+<strong>Ah, this love is like plastic</strong>
+
+
+またくり返す
+MATA KURIKAESU
+<strong>It repeats again</strong>
+
+ポリリズム, ポリリズム, ポリリズム, ポリリズム
+PORIRIZUMU, PORIRIZUMU, PORIRIZUMU, PORIRIZUMU
+<strong>Polyrhythm, polyrhythm, polyrhythm, polyrhythm</strong>
+
+ポリリズム, ポリリズム, ポリリズム, ポリリズム
+PORIRIZUMU, PORIRIZUMU, PORIRIZUMU, PORIRIZUMU
+<strong>Polyrhythm, polyrhythm, polyrhythm, polyrhythm</strong>
+
+ポリリズム, リズム, リズム, リズム, リズム, リズム, リズム
+PORIRIZUMU, RIZUMU, RIZUMU, RIZUMU, RIZUMU, RIZUMU, RIZUMU
+<strong>Polyrhythm, rhythm, rhythm, rhythm, rhythm, rhythm, rhythm</strong>
+
+ポリリズム
+PORIRIZUMU
+<strong>Polyrhythm</strong>
+</div>
+</main>
+
+<!--#include virtual="/templates/footer.html" -->
+</body>

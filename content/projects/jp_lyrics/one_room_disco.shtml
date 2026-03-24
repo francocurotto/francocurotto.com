@@ -1,0 +1,312 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Franco's Website</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="/style.css">
+</head>
+
+<body>
+<!--#include virtual="/templates/header.html" -->
+
+<main>
+<h2>One Room Disco</h2>
+<div class="lyrics">
+ワンルーム・ディスコ
+ONE ROOM DISCO
+<strong>One Room Disco</strong>
+
+ディスコ ディスコ ワンルーム・ディスコ
+DISCO DISCO ONE ROOM DISCO
+<strong>Disco, Disco, One Room Disco</strong>
+
+ディスコ ディスコ
+DISCO DISCO
+<strong>Disco, Disco</strong>
+
+ディスコ ディスコ ワンルーム・ディスコ
+DISCO DISCO ONE ROOM DISCO
+<strong>Disco, Disco, One Room Disco</strong>
+
+ディスコ ディスコ
+DISCO DISCO
+<strong>Disco, Disco</strong>
+
+
+なんだって少なめ
+NAN DATTE SUKUNAME
+<strong>Feels like something is missing</strong>
+
+半分の生活
+HANBUN NO SEIKATSU
+<strong>like living half a life</strong>
+
+だけど荷物は
+DAKEDO NIMOTSU WA
+<strong>But my luggage is heavy</strong>
+
+重い気分は軽い
+OMOI KIBUN WA KARUI
+<strong>my feelings are light</strong>
+
+窓を開けても
+MADO WO AKETE MO
+<strong>Even when I open the window</strong>
+
+見慣れない風景
+MINARENAI FUUKEI
+<strong>all I see is a unusual scenery</strong>
+
+ちょっと落ち着かないけれど
+CHOTTO OCHITSUKANAI KEREDO
+<strong>I feel uneasy</strong>
+
+そのうち楽しくなるでしょ
+SONO UCHI TANOSHIKU NARU DESHO
+<strong>But I know I will be happy</strong>
+
+
+新しい場所で
+ATARASHII BASHO DE
+<strong>Can I get along well</strong>
+
+上手くやって行けるかな
+UMAKUYATTE IKERU KANA
+<strong>with this new situation?</strong>
+
+部屋を片付けて
+HEYA WO KATADZUKETE
+<strong>Let’s put the room in order</strong>
+
+買い物に出かけよう
+KAIMONO NI DEKAKEYOU
+<strong>and go shopping</strong>
+
+遠い空の向こう
+TOOI SORA NO MUKOU
+<strong>In the place under the distant sky</strong>
+
+君は何を想うの
+KIMI WA NANI WO OMOU NO
+<strong>what do you think about?</strong>
+
+たぶんできるはずって
+TABUN DEKIRU HAZU TTE
+<strong>Unless I think maybe I should be</strong>
+
+思わなきゃ しょうがない
+OMOWANAKYA SHOUGANAI
+<strong>able to do it, I can’t do anything</strong>
+
+
+ディスコ ディスコ ワンルーム・ディスコ
+DISCO DISCO ONE ROOM DISCO
+<strong>Disco, Disco, One Room Disco</strong>
+
+ディスコ ディスコ
+DISCO DISCO
+<strong>Disco, Disco</strong>
+
+ディスコ ディスコ ワンルーム・ディスコ
+DISCO DISCO ONE ROOM DISCO
+<strong>Disco, Disco, One Room Disco</strong>
+
+ディスコ ディスコ
+DISCO DISCO
+<strong>Disco, Disco</strong>
+
+ディスコ ディスコ ワンルーム・ディスコ
+DISCO DISCO ONE ROOM DISCO
+<strong>Disco, Disco, One Room Disco</strong>
+
+ディスコ ディスコ
+DISCO DISCO
+<strong>Disco, Disco</strong>
+
+ディスコ ディスコ ワンルーム・ディスコ
+DISCO DISCO ONE ROOM DISCO
+<strong>Disco, Disco, One Room Disco</strong>
+
+ディスコ ディスコ
+DISCO DISCO
+<strong>Disco, Disco</strong>
+
+
+なんだって少なめ
+NAN DATTE SUKUNAME
+<strong>Feels like something is missing</strong>
+
+半分の生活
+HANBUN NO SEIKATSU
+<strong>like living half a life</strong>
+
+だけど気になる
+DAKEDO KI NI NARU
+<strong>But I’m afraid of taking too much</strong>
+
+カロリー 気分は軽い
+KARORII KIBUN WA KARUI
+<strong>calories, my feelings is light</strong>
+
+シャンプーをしながら
+SHANPUU WO SHINAGARA
+<strong>Shampooing my hair</strong>
+
+目を閉じたまま
+ME WO TOJITA MAMA
+<strong>with my eyes close</strong>
+
+シャワーも出せないけれど
+SHAWAA MO DASENAI KEREDO
+<strong>I can’t turn on a shower</strong>
+
+そのうち慣れてくるでしょ
+SONO UCHI NARETEKURU DESHO
+<strong>But I know I will be used to it</strong>
+
+
+新しい場所で
+ATARASHII BASHO DE
+<strong>Can I get along well</strong>
+
+上手くやって行けるかな
+UMAKUYATTE IKERU KANA
+<strong>with my new situation?</strong>
+
+音楽をかけて
+ONGAKU WO KAKETE
+<strong>Playing some music</strong>
+
+計画をネリネリ
+KEIKAKU WO NERINERI
+<strong>I’ll make a plan again and again</strong>
+
+今日はなんだかね
+KYOU WA NANDAKA NE
+<strong>Today, somehow</strong>
+
+おもしろいこともないし
+OMOSHIROI KOTO MO NAISHI
+<strong>there is nothing particular, so</strong>
+
+リズムに揺られたいんだ
+RIZUMU NI YURARETAINDA
+<strong>I want to swing with the rhythm</strong>
+
+ワンルーム・ディス
+ONE ROOM DISCO
+<strong>One Room Disco</strong>
+
+
+昼間みたい 街の明かりが
+HIRUMA MITAI MACHI NO AKARI GA
+<strong>As bright as the daytime, Lights of the city</strong>
+
+星空を見えなくする
+HOSHIZORA WO MIENAKU SURU
+<strong>Hide the starlight from the sky</strong>
+
+たくさんのまぶしい光
+TAKUSAN NO MABUSHII HIKARI
+<strong>A lot of dizzy lights</strong>
+
+溶けて消えちゃいそうで
+TOKETE KIECHAISOU DE
+<strong>Look as if they would melt and disappear</strong>
+
+
+新しい場所で
+ATARASHII BASHO DE
+<strong>Can I get along well</strong>
+
+上手くやって行けるかな
+UMAKUYATTE IKERU KANA
+<strong>with this new situation?</strong>
+
+部屋を片付けて
+HEYA WO KATADZUKETE
+<strong>Let’s put the room in order</strong>
+
+買い物に出かけよう
+KAIMONO NI DEKAKEYOU
+<strong>and go shopping</strong>
+
+遠い空の向こう
+TOOI SORA NO MUKOU
+<strong>In the place under the distant sky</strong>
+
+君は何を想うの
+KIMI WA NANI WO OMOU NO
+<strong>what do you think about?</strong>
+
+たぶんできるはずって
+TABUN DEKIRU HAZU TTE
+<strong>Unless I think maybe I should be</strong>
+
+思わなきゃ しょうがない
+OMOWANAKYA SHOUGANAI
+<strong>able to do it, I can’t do anything</strong>
+
+
+新しい場所で
+ATARASHII BASHO DE
+<strong>Can I get along well</strong>
+
+上手くやって行けるかな
+UMAKUYATTE IKERU KANA
+<strong>with my new situation?</strong>
+
+音楽をかけて
+ONGAKU WO KAKETE
+<strong>Playing some music</strong>
+
+計画をネリネリ
+KEIKAKU WO NERI NERI
+<strong>I’ll make a plan again and again</strong>
+
+今日はなんだかね
+KYOU WA NANDAKA NE
+<strong>Today, somehow</strong>
+
+おもしろいこともないし
+OMOSHIROI KOTO MO NAISHI
+<strong>there is nothing particular, so</strong>
+
+リズムに揺られたいんだ
+RIZUMU NI YURARETAINDA
+<strong>I want to swing with the rhythm</strong>
+
+ワンルーム・ディスコ
+ONE ROOM DISCO
+<strong>One Room Disco</strong>
+
+
+ディスコ ディスコ ワンルーム・ディスコ
+DISCO DISCO ONE ROOM DISCO
+<strong>Disco disco one room disco</strong>
+
+ディスコ ディスコ
+DISCO DISCO
+<strong>Disco disco</strong>
+
+ディスコ ディスコ ワンルーム・ディスコ
+DISCO DISCO ONE ROOM DISCO
+<strong>Disco disco one room disco</strong>
+
+ディスコ ディスコ
+DISCO DISCO
+<strong>Disco disco</strong>
+
+ワンルーム・ディスコ
+ONE ROOM DISCO
+<strong>One room disco</strong>
+
+ディスコ ディスコ
+DISCO DISCO
+<strong>Disco disco</strong>
+</div>
+</main>
+
+<!--#include virtual="/templates/footer.html" -->
+</body>

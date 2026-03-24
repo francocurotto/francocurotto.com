@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Franco's Website</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="/style.css">
+</head>
+
+<body>
+<!--#include virtual="/templates/header.html" -->
+
+<main>
+<h2>Spice</h2>
+<div class="lyrics">
+耳を澄まして
+MIMI WO SUMASHITE
+<strong>Listen carefully</strong>
+
+目を凝らせばほら
+ME WO KORASEBA HORA
+<strong>If you look closely</strong>
+
+扉が開けば
+TOBIRA GA HIRAKEBA
+<strong>When the door opens</strong>
+
+すべてが見えるわ
+SUBETE GA MIERU WA
+<strong>You'll see everything</strong>
+
+
+知らない方がいいのかもね
+SHIRANAI HOU GA II NO KAMO NE
+<strong>Maybe it's better not to know</strong>
+
+でも思いがけないワクワクが欲しい
+DEMO OMOIGAKENAI WAKUWAKU GA HOSHII
+<strong>But I want unexpected thrill</strong>
+
+好奇心のスパイスはね
+KOUKISHIN NO SUPAISU WA NE
+<strong>The spice of curiosity</strong>
+
+巡り巡り何か起こすの
+MEGURI MEGURI NANIKA OKOSU NO
+<strong>Goes in circles and makes something happen</strong>
+
+Spice
+SPICE
+<strong>Spice</strong>
+
+
+耳を澄まして
+MIMI WO SUMASHITE
+<strong>Listen carefully</strong>
+
+目を凝らせばほら
+ME WO KORASEBA HORA
+<strong>If you look closely</strong>
+
+扉が開けば
+TOBIRA GA HIRAKEBA
+<strong>When the door opens</strong>
+
+すべてが見えるわ
+SUBETE GA MIERU WA
+<strong>You'll see everything</strong>
+
+これ以上は
+KORE IJOU WA
+<strong>From this point on</strong>
+
+
+知らない方がいいのかもね
+SHIRANAI HOU GA II NO KAMO NE
+<strong>Maybe it's better not to know</strong>
+
+恋するほどハラハラするわ
+KOISURU HODO HARAHARA SURU WA
+<strong>As I fall in love, the anxiety rises</strong>
+
+同じ部屋で触れていても
+ONAJI HEYA DE FURETE ITE MO
+<strong>Even when we're in the same room, touching</strong>
+
+近距離は遠くに感じてるの
+KINKYORI WA TOOKU NI KANJITERU NO
+<strong>You feel so far away</strong>
+
+
+知らない方がいいのかもね
+SHIRANAI HOU GA II NO KAMO NE
+<strong>Maybe it's better not to know</strong>
+
+でも思いがけないワクワクが欲しい
+DEMO OMOIGAKENAI WAKUWAKU GA HOSHII
+<strong>But I want unexpected thrill</strong>
+
+好奇心のスパイスはね
+KOUKISHIN NO SUPAISU WA NE
+<strong>The spice of curiosity</strong>
+
+巡り巡り何か起こすの
+MEGURI MEGURI NANIKA OKOSU NO
+<strong>Goes in circles and makes something happen</strong>
+
+Spice
+SPICE
+<strong>Spice</strong>
+
+
+耳を澄まして
+MIMI WO SUMASHITE
+<strong>Listen carefully</strong>
+
+目を凝らせばほら
+ME WO KORASEBA HORA
+<strong>If you look closely</strong>
+
+扉が開けば
+TOBIRA GA HIRAKEBA
+<strong>When the door opens</strong>
+
+すべてが見えるわ
+SUBETE GA MIERU WA
+<strong>You'll see everything</strong>
+
+だけど
+DAKEDO
+<strong>But</strong>
+
+
+知らない方がいいのかもね
+SHIRANAI HOU GA II NO KAMO NE
+<strong>Maybe it's better not to know</strong>
+
+恋するほどハラハラするわ
+KOISURU HODO HARAHARA SURU WA
+<strong>As I fall in love, the anxiety rises</strong>
+
+同じ部屋で触れていても
+ONAJI HEYA DE FURETE ITE MO
+<strong>Even when we're in the same room, touching</strong>
+
+近距離は遠くに感じてるの
+KINKYORI WA TOOKU NI KANJITERU NO
+<strong>You feel so far away</strong>
+
+
+知らない方がいいのかもね
+SHIRANAI HOU GA II NO KAMO NE
+<strong>Maybe it's better not to know</strong>
+
+でも思いがけないワクワクが欲しい
+DEMO OMOIGAKENAI WAKUWAKU GA HOSHII
+<strong>But I want unexpected thrill</strong>
+
+好奇心のスパイスはね
+KOUKISHIN NO SUPAISU WA NE
+<strong>The spice of curiosity</strong>
+
+巡り巡り何か起こすの
+MEGURI MEGURI NANIKA OKOSU NO
+<strong>Goes in circles and makes something happen</strong>
+
+Spice
+SPICE
+<strong>Spice</strong>
+
+
+Maybe... ah-ah
+MAYBE... AH-AH
+<strong>Maybe... ah-ah</strong>
+
+巡り巡り何か起こすの
+MEGURI MEGURI NANIKA OKOSU NO
+<strong>Goes in circles and makes something happen</strong>
+
+ワクワクが欲しい
+WAKUWAKU GA HOSHII
+<strong>What more thrill</strong>
+
+ハラハラするわ
+HARAHARA SURU WA
+<strong>Give me anxiety</strong>
+
+Spice
+SPICE
+<strong>Spice</strong>
+</div>
+</main>
+
+<!--#include virtual="/templates/footer.html" -->
+</body>

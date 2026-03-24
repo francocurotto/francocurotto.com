@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Franco's Website</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="/style.css">
+</head>
+
+<body>
+<!--#include virtual="/templates/header.html" -->
+
+<main>
+<h2>Hamigaki Jouzu Kana</h2>
+<div class="lyrics">
+はみがきじょうずかな
+HAMIGAKI JOUZU KANA
+<strong>Are you good at brushing your teeth?</strong>
+
+
+クチュクチュ（チュ）シュワシュワ（ワー）
+KUCHU KUCHU (CHU), SHUWA SHUWA (WAA)
+<strong>Scrub scrub, bubble bubble</strong>
+
+クチュクチュクチュクチュ　シュワシュワ（シュワシュワ）
+KUCHU KUCHU KUCHU KUCHU, SHUWA SHUWA (SHUWA SHUWA)
+<strong>Scrub scrub scrub scrub, bubble bubble (bubble bubble)</strong>
+
+クチュクチュ（ハミガキ）シュワシュワ（ハミガキ）
+KUCHU KUCHU (HAMIGAKI), SHUWA SHUWA (HAMIGAKI)
+<strong>Scrub scrub (brushing your teeth), bubble bubble (brushing your teeth)</strong>
+
+クチュクチュ（クチュクチュシュワシュワ）ワー
+KUCHU KUCHU (KUCHU KUCHU, SHUWA SHUWA), WAA
+<strong>Scrub scrub (scrub scrub, bubble bubble), wah</strong>
+
+クチュクチュ（チュ）シュワシュワ（ワー）
+KUCHU KUCHU (CHU), SHUWA SHUWA (WAA)
+<strong>Scrub scrub (chu), bubble bubble (wah)</strong>
+
+クチュクチュクチュクチュ　シュワシュワ（シュワシュワ）
+KUCHU KUCHU KUCHU KUCHU, SHUWA SHUWA (SHUWA SHUWA)
+<strong>Scrub scrub scrub scrub, bubble bubble (bubble bubble)</strong>
+
+クチュクチュ（ハミガキ）シュワシュワ（ハミガキ）
+KUCHU KUCHU (HAMIGAKI), SHUWA SHUWA (HAMIGAKI)
+<strong>Scrub scrub (brushing your teeth), bubble bubble (brushing your teeth)</strong>
+
+クチュクチュ（クチュクチュシュワシュワ）ワー
+KUCHU KUCHU (KUCHU KUCHU, SHUWA SHUWA), WAA
+<strong>Scrub scrub (scrub scrub, bubble bubble), wah</strong>
+
+クチュクチュ、シュワシュワ
+KUCHU KUCHU, SHUWA SHUWA
+<strong>Scrub scrub, bubble bubble</strong>
+
+シュワシュワ、クチュクチュ
+SHUWA SHUWA, KUCHU KUCHU
+<strong>Bubble bubble, scrub scrub</strong>
+
+シュワシュワ、クチュー
+SHUWA SHUWA, KUCHUU
+<strong>Bubble bubble, scrub...</strong>
+
+
+しあげはおかあさん
+SHIAGE WA OKAASAN
+<strong>Now your mum will do the finishing touches!</strong>
+
+グリグリ（グリグリ）シャカシャカ（シャカシャカ）
+GURI GURI (GURI GURI), SHAKA SHAKA (SHAKA SHAKA)
+<strong>Brush brush (brush brush), shake shake (shake shake)</strong>
+
+グリグリ（グリグリ）シャカシャカ（シャカシャカ）
+GURI GURI (GURI GURI), SHAKA SHAKA (SHAKA SHAKA)
+<strong>Brush brush (brush brush), shake shake (shake shake)</strong>
+
+上の歯（グリグリ）
+UE NO HA (GURI GURI)
+<strong>Top teeth (brush brush)</strong>
+
+下の歯（シャカシャカ）
+SHITA NO HA (SHAKA SHAKA)
+<strong>Bottom teeth (shake shake)</strong>
+
+前歯（グリグリ）奥歯（シャカシャカ）
+MAEBA (GURI GURI), OKUBA (SHAKA SHAKA)
+<strong>Front teeth (brush brush), back teeth (shake shake)</strong>
+
+上の歯（グリグリ）
+UE NO HA (GURI GURI)
+<strong>Top teeth (brush brush)</strong>
+
+下の歯（シャカシャカ）
+SHITA NO HA (SHAKA SHAKA)
+<strong>Bottom teeth (shake shake)</strong>
+
+前歯（グリグリ）奥歯（シャカシャカ）
+MAEBA (GURI GURI), OKUBA (SHAKA SHAKA)
+<strong>Front teeth (brush brush), back teeth (shake shake)</strong>
+
+グリグリ、シャカシャカ
+GURI GURI, SHAKA SHAKA
+<strong>Brush brush, shake shake</strong>
+
+グリグリ、シャカシャカ、シュワー
+GURI GURI, SHAKA SHAKA, SHUWAA
+<strong>Brush brush, shake shake, shuwah</strong>
+
+
+たべたらみがく　やくそくげんまん
+TABETARA MIGAKU YAKUSOKU GENMAN
+<strong>Pinky promise to brush after you eat!</strong>
+</div>
+</main>
+
+<!--#include virtual="/templates/footer.html" -->
+</body>

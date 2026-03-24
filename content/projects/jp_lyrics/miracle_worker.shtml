@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Franco's Website</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="/style.css">
+</head>
+
+<body>
+<!--#include virtual="/templates/header.html" -->
+
+<main>
+<h2>Miracle Worker</h2>
+<div class="lyrics">
+What should I do?
+WHAT SHOULD I DO?
+<strong>What should I do?</strong>
+
+キミのことを
+KIMI NO KOTO WO
+<strong>About you</strong>
+
+気にしてるの
+KI NI SHITERU NO
+<strong>I'm paying close attention</strong>
+
+Where should I go?
+WHERE SHOULD I GO?
+<strong>Where should I go?</strong>
+
+チラリ Look sideways
+CHIRARI LOOK SIDEWAYS
+<strong>A glace - Look sideways</strong>
+
+
+What should I do?
+WHAT SHOULD I DO?
+<strong>What should I do?</strong>
+
+迷ってるの
+MAYOTTERU NO
+<strong>I'm lost</strong>
+
+キミの迷宮で
+KIMI NO MEIKYUU DE
+<strong>In your maze</strong>
+
+Where should I go?
+WHERE SHOULD I GO?
+<strong>Where should I go?</strong>
+
+願うだけじゃ
+NEGAU DAKE JA
+<strong>I'll just hope</strong>
+
+
+起こせミラクル
+OKOSE MIRACLE
+<strong>Awaken a miracle</strong>
+
+
+What should i do?
+WHAT SHOULD I DO?
+<strong>What should I do?</strong>
+
+キミのことを
+KIMI NO KOTO WO
+<strong>About you</strong>
+
+気にしてるの
+KI NI SHITERU NO
+<strong>I'm paying close attention</strong>
+
+Where should i go?
+WHERE SHOULD I GO?
+<strong>Where should I go?</strong>
+
+チラリ Look sideways
+CHIRARI LOOK SIDEWAYS
+<strong>A glace - Look sideways</strong>
+
+
+What should I do?
+WHAT SHOULD I DO?
+<strong>What should I do?</strong>
+
+迷ってるの
+MAYOTTERU NO
+<strong>I'm lost</strong>
+
+キミの迷宮で
+KIMI NO MEIKYUU DE
+<strong>In your maze</strong>
+
+Where should I go?
+WHERE SHOULD I GO?
+<strong>Where should I go?</strong>
+
+願うだけじゃ
+NEGAU DAKE JA
+<strong>I'll just hope</strong>
+
+
+Woh woh woh
+WOH WOH WOH
+<strong>Woh woh woh</strong>
+
+
+What should I do?
+WHAT SHOULD I DO?
+<strong>What should I do?</strong>
+
+キミのことを
+KIMI NO KOTO WO
+<strong>About you</strong>
+
+気にしてるの
+KI NI SHITERU NO
+<strong>I'm paying close attention</strong>
+
+Where should I go?
+WHERE SHOULD I GO?
+<strong>Where should I go?</strong>
+
+チラリ Look sideways
+CHIRARI LOOK SIDEWAYS
+<strong>A glace - Look sideways</strong>
+
+キミの迷宮で
+KIMI NO MEIKYUU DE
+<strong>In your maze</strong>
+
+
+What should I do?
+WHAT SHOULD I DO?
+<strong>What should I do?</strong>
+
+迷ってるの
+MAYOTTERU NO
+<strong>I'm lost</strong>
+
+キミの迷宮で
+KIMI NO MEIKYUU DE
+<strong>In your maze</strong>
+
+Where should I go?
+WHERE SHOULD I GO?
+<strong>Where should I go?</strong>
+
+願うだけじゃ
+NEGAU DAKE JA
+<strong>I'll just hope</strong>
+
+起こせミラクル
+OKOSE MIRACLE
+<strong>Awaken a miracle</strong>
+</div>
+</main>
+
+<!--#include virtual="/templates/footer.html" -->
+</body>

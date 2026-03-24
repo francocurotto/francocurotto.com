@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Franco's Website</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="/style.css">
+</head>
+
+<body>
+<!--#include virtual="/templates/header.html" -->
+
+<main>
+<h2>Macaroni</h2>
+<div class="lyrics">
+マーマーマーマカロニ
+MA-MA-MA-MACARONI
+<strong>Ma-ma-ma-macaroni</strong>
+
+
+見上げた空は高くて
+MIAGETA SORA WA TAKAKUTE
+<strong>The sky I look up into is so high</strong>
+
+だんだん手が冷たいの
+DANDAN TE GA TSUMETAI NO
+<strong>My hands are gradually getting colder</strong>
+
+キミの温度はどれくらい
+KIMI NO ONDO WA DORE KURAI
+<strong>How warm are you feeling?</strong>
+
+手をつないで歩くの
+TE WO TSUNAIDE ARUKU NO
+<strong>We are walking without holding hands</strong>
+
+名前を呼び合うときに
+NAMAE WO YOBI AU TOKI NI
+<strong>When we call our names out to each others</strong>
+
+少しだけ照れるくらい
+SUKOSHIDAKE TERERU KURAI
+<strong>It's enough to make me feel a little bit shy</strong>
+
+そんな空気もいいよね
+SONNA KUUKI MO II YO NE
+<strong>This kind of air is great too, isn't it?</strong>
+
+やわらかいよね
+YAWARAKAI YO NE
+<strong>It feels quite confortable</strong>
+
+
+これくらいのかんじで いつまでもいたいよね
+KORE KURAI NO KANJI DE ITSUMADEMO ITAI YO NE
+<strong>I want to feel this kind of feeling all the time</strong>
+
+どれくらいの時間を 寄り添って過ごせるの
+DORE KURAI NO JIKAN WO YORI SOTTE SUGOSERU NO
+<strong>How long can we spend snugglingg close together?</strong>
+
+これくらいのかんじで たぶんちょうどいいよね
+KORE KURAI NO KANJI DE TABUN CHOUDO II YO NE
+<strong>A feeling like this might be perfect!</strong>
+
+わからないことだらけ でも安心できるの
+WAKARANAI KOTO DARAKE DEMO ANSHIN DEKIRU NO
+<strong>Though I don't understand it all, I can have peace of mind</strong>
+
+
+あきれた顔がみたくて
+AKIRETA KAO GA MITAKUTE
+<strong>I'd like to see your surprised face</strong>
+
+時々じゃまもするけど
+DOKI DOKI JAMA MO SURU KEDO
+<strong>Though sometimes I'm interrupting</strong>
+
+大切なのはマカロニ
+TAISETSU NANO WA MACARONI
+<strong>However, what's important is macaroni</strong>
+
+ぐつぐつ溶けるスープ
+GUTSU GUTSU TOKERU SUUPU
+<strong>The boiling sound in melting soup</strong>
+
+手と手をつなぐときにも
+TE TO TE WO TSUNAGU TOKI NI MO
+<strong>Even when we walk hand in hand</strong>
+
+そっと深呼吸をする
+SOTTO SHIN KOKYUU WO SURU
+<strong>the whole time I'm taking deep breaths</strong>
+
+そんな空気もいいよね
+SONNA KUUKI MO II YO NE
+<strong>This kind of air is great too, isn't it?</strong>
+
+やわらかいよね
+YAWARAKAI YO NE
+<strong>It feels quite confortable</strong>
+
+
+これくらいのかんじで いつまでもいたいよね
+KORE KURAI NO KANJI DE ITSUMADEMO ITAI YO NE
+<strong>I want to feel this kind of feeling all the time</strong>
+
+どれくらいの時間を 寄り添って過ごせるの
+DORE KURAI NO JIKAN WO YORI SOTTE SUGOSERU NO
+<strong>How long can we spend snugglingg close together?</strong>
+
+これくらいのかんじで たぶんちょうどいいよね
+KORE KURAI NO KANJI DE TABUN CHOUDO II YO NE
+<strong>A feeling like this might be perfect!</strong>
+
+わからないことだらけ でも安心できるの
+WAKARANAI KOTO DARAKE DEMO ANSHIN DEKIRU NO
+<strong>Though I don't understand it all, I can have peace of mind.</strong>
+
+
+最後のときが いつかくるならば
+SAIGO NO TOKI GA ITSUKA KURU NARABA
+<strong>The end may come someday,</strong>
+
+それまでずっと キミを守りたい
+SORE MADE ZUTTO KIMI WO MAMORITAI
+<strong>But until then, I want to protect you.</strong>
+
+
+これくらいのかんじで いつまでもいたいよね
+KORE KURAI NO KANJI DE ITSUMADEMO ITAI YO NE
+<strong>I want to feel this kind of feeling all the time,</strong>
+
+どれくらいの時間を 寄り添って過ごせるの
+DORE KURAI NO JIKAN WO YORI SOTTE SUGOSERU NO
+<strong>How long can we spend snugglingg close together?</strong>
+
+これくらいのかんじで たぶんちょうどいいよね
+KORE KURAI NO KANJI DE TABUN CHOUDO II YO NE
+<strong>A feeling like this might be perfect!</strong>
+
+わからないことだらけ でも安心できるの
+WAKARANAI KOTO DARAKE DEMO ANSHIN DEKIRU NO
+<strong>Though I don't understand it all, I can have peace of mind</strong>
+
+
+でも安心できるの
+DEMO ANSHIN DEKIRU NO
+<strong>I can have peace of mind</strong>
+
+マーマーマーマカロニ
+MA-MA-MA-MACARONI
+<strong>Ma-ma-ma-macaroni</strong>
+
+でも安心できるの
+DEMO ANSHIN DEKIRU NO
+<strong>I can have peace of mind</strong>
+
+マーマーマーマカロニ
+MA-MA-MA-MACARONI
+<strong>Ma-ma-ma-macaroni</strong>
+
+マーマーマーマカロニ
+MA-MA-MA-MACARONI
+<strong>Ma-ma-ma-macaroni</strong>
+</div>
+</main>
+
+<!--#include virtual="/templates/footer.html" -->
+</body>

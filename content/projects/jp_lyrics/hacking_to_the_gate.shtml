@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Franco's Website</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="/style.css">
+</head>
+
+<body>
+<!--#include virtual="/templates/header.html" -->
+
+<main>
+<h2>Hacking To The Gate</h2>
+<div class="lyrics">
+数十億もの鼓動の数さえ
+SUUJUUOKU MO NO KODOU NO KAZU SAE
+<strong>Even the world's billions of heartbeats</strong>
+
+あなたには瞬き程度の些事な等級
+ANATA NI WA MATATAKI TEIDO NO SAJI NA TOUKYUU
+<strong>Are nothing to you but a fleeting and insignificant question</strong>
+
+過去に囚われて未来を嘆くも
+KAKO NI TORAWARETE MIRAI WO NAGEKU MO
+<strong>We may be trapped in the past or lament the future</strong>
+
+塵一つ 誤算を許さぬ必然
+CHIRI HITOTSU GOSAN WO YURUSANU HITSUZEN
+<strong>But the predetermination does not allow the slightest mistake</strong>
+
+
+無限に広がる夢もえがく未来も
+MUGEN NI HIROGARU YUME MO EGAKU MIRAI MO
+<strong>The infinite dreams and imagined futures before us</strong>
+
+僕達に許された虚栄の権利
+BOKUTACHI NI YURUSARETA KYOEI NO GENRI
+<strong>Are naught but vain theories we may hold</strong>
+
+有限それは二つの針が示す
+YUUGEN SORE WA FUTATSU NO HARI GA SHIMESU
+<strong>Finitude is what the two clock hands show</strong>
+
+残酷な約定と選択へ
+ZANKOKU NA YAKUJOU TO SENTAKU E
+<strong>As they point toward the cruel destiny and choice</strong>
+
+Hacking to the Gate
+HACKING TO THE GATE
+<strong>Hacking to the Gate</strong>
+
+
+だからいま一秒ごとに世界線を超えて
+DAKARA IMA ICHIBYOU GOTO NI SEKAISEN WO KOETE
+<strong>And now I cross the boundary between worlds each second</strong>
+
+君のその笑顔守りたいのさ
+KIMI NO SONO EGAO MAMORITAI NO SA
+<strong>Because I want to protect that smile of yours</strong>
+
+そしてまた悲しみの無い時間のループへと
+SOSHITE MATA KANASHIMI NO NAI JIKAN NO RUUPU E TO
+<strong>And a loop in time without sadness will once again</strong>
+
+飲み込まれてゆく孤独の観測者
+NOMIKOMARETE YUKU KODOKU NO KANSOKUSHA
+<strong>Engulf me, a lonely observer</strong>
+</div>
+</main>
+
+<!--#include virtual="/templates/footer.html" -->
+</body>

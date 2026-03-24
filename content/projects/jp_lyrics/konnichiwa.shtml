@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Franco's Website</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="/style.css">
+</head>
+
+<body>
+<!--#include virtual="/templates/header.html" -->
+
+<main>
+<h2>Konnichiwa</h2>
+<div class="lyrics">
+こにちは！こにちは！きょうはげんき？
+KONICHIWA! KONICHIWA! KYOU WA GENKI?
+<strong>Hello! Hello! How are you?</strong>
+
+こにちは！こにちは！きょうはげんき？
+KONICHIWA! KONICHIWA! KYOU WA GENKI?
+<strong>Hello! Hello! How are you?</strong>
+
+げんき！
+GENKI!
+<strong>I'm good!</strong>
+
+ばつぐん！
+BATSUGUN!
+<strong>I'm great!</strong>
+
+きぶんはさいこう！
+KIBUN GA SAIKOU!
+<strong>I'm wonderful!</strong>
+
+げんき！
+GENKI!
+<strong>I'm good!</strong>
+
+ばつぐん！
+BATSUGUN!
+<strong>I'm great!</strong>
+
+きぶんはさいこう！
+KIBUN GA SAIKOU!
+<strong>I'm wonderful!</strong>
+
+こにちは！こにちは！きょうはげんき？
+KONICHIWA! KONICHIWA! KYOU WA GENKI?
+<strong>Hello! Hello! How are you?</strong>
+
+こにちは！こにちは！きょうはげんき？
+KONICHIWA! KONICHIWA! KYOU WA GENKI?
+<strong>Hello! Hello! How are you?</strong>
+
+つかれた
+TSUKARETA
+<strong>I'm tired</strong>
+
+おなかすいた
+ONAKA SUITA
+<strong>I'm hungry</strong>
+
+がんきないよ
+GENKI NAIYO
+<strong>I'm not so good</strong>
+
+つかれた
+TSUKARETA
+<strong>I'm tired</strong>
+
+おなかすいた
+ONAKA SUITA
+<strong>I'm hungry</strong>
+
+がんきないよ
+GENKI NAIYO
+<strong>I'm not so good</strong>
+
+こにちは！こにちは！きょうはげんき？
+KONICHIWA! KONICHIWA! KYOU WA GENKI?
+<strong>Hello! Hello! How are you?</strong>
+
+こにちは！こにちは！きょうはげんき？
+KONICHIWA! KONICHIWA! KYOU WA GENKI?
+<strong>Hello! Hello! How are you?</strong>
+
+こにちは！こにちは！きょうはげんき？
+KONICHIWA! KONICHIWA! KYOU WA GENKI?
+<strong>Hello! Hello! How are you?</strong>
+
+こにちは！こにちは！きょうはげんき？
+KONICHIWA! KONICHIWA! KYOU WA GENKI?
+<strong>Hello! Hello! How are you?</strong>
+</div>
+</main>
+
+<!--#include virtual="/templates/footer.html" -->
+</body>

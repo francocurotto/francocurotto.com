@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Franco's Website</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="/style.css">
+</head>
+
+<body>
+<!--#include virtual="/templates/header.html" -->
+
+<main>
+<h2>Next Stage With You</h2>
+<div class="lyrics">
+チャンスをいつもつかみたいの
+CHANSU WO ITSUMO TSUKAMITAI NO
+<strong>I always want to grab chances</strong>
+
+Next stage with you
+NEXT STAGE WITH YOU
+<strong>Next Stage with You</strong>
+
+タイミング次第でもきっと
+TAIMINGU SHIDAI DEMO KITTO
+<strong>It depends on timing but surely</strong>
+
+Next stage with you
+NEXT STAGE WITH YOU
+<strong>Next Stage with YOU</strong>
+
+違う風景を見るとき
+CHIGAU FUUKEI WO MIRU TOKI
+<strong>When I see a different scene</strong>
+
+Next stage with you
+NEXT STAGE WITH YOU
+<strong>Next Stage with YOU</strong>
+
+キミの隣にいたいわ
+KIMI NO TONARI NI ITAI WA
+<strong>I want to be by your side</strong>
+
+Next stage with you
+NEXT STAGE WITH YOU
+<strong>Next Stage with YOU</strong>
+
+
+Next stage with you
+NEXT STAGE WITH YOU
+<strong>Next stage with you</strong>
+
+Next stage with you
+NEXT STAGE WITH YOU
+<strong>Next stage with you</strong>
+
+
+チャンスをいつもつかみたいの
+CHANSU WO ITSUMO TSUKAMITAI NO
+<strong>I always want to grab chances</strong>
+
+Next stage with you
+NEXT STAGE WITH YOU
+<strong>Next Stage with You</strong>
+
+タイミング次第でもきっと
+TAIMINGU SHIDAI DEMO KITTO
+<strong>It depends on timing but surely</strong>
+
+Next stage with you
+NEXT STAGE WITH YOU
+<strong>Next Stage with YOU</strong>
+
+違う風景を見るとき
+CHIGAU FUUKEI WO MIRU TOKI
+<strong>When I see a different scene</strong>
+
+Next stage with you
+NEXT STAGE WITH YOU
+<strong>Next Stage with YOU</strong>
+
+キミの隣にいたいわ
+KIMI NO TONARI NI ITAI WA
+<strong>I want to be by your side</strong>
+
+Next stage with you
+NEXT STAGE WITH YOU
+<strong>Next Stage with YOU</strong>
+
+
+Next stage with you
+NEXT STAGE WITH YOU
+<strong>Next stage with you</strong>
+
+Stage with you
+STAGE WITH YOU
+<strong>Stage with you</strong>
+
+Stage with you
+STAGE WITH YOU
+<strong>Stage with you</strong>
+</div>
+</main>
+
+<!--#include virtual="/templates/footer.html" -->
+</body>

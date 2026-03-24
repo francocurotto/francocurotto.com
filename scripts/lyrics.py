@@ -1,4 +1,8 @@
-FILENAME = "computer_obaachan"
+import sys
+from pathlib import Path
+
+FIN = sys.argv[1]
+FILENAME = Path(FIN).stem
 FIN = "../../francocurotto.github.io/jp_lyrics/" + FILENAME + ".md"
 FOUT = "../content/projects/jp_lyrics/" + FILENAME + ".shtml"
 TITLE = FILENAME.replace("_", " ").title()
