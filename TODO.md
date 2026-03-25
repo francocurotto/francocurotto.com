@@ -1,5 +1,1 @@
-- add mising sections
-    - projects
-        - Personal projects
-            - JP Lyrics
-- add blog
+- self host

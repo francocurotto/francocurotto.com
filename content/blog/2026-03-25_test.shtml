@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Franco's Website</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="/style.css">
+</head>
+
+<body>
+<!--#include virtual="/templates/header.html" -->
+
+<main>
+<h2>Test</h2>
+<time class="date" datetime="2026-03-25">2026-03-25</time>
+<p>
+This is a test blog post. Just checking if everything is working correctly. To leave it not so empty, I'll leave here one of my favorites quotes of all times, one that is still very relevant is the modern AI world:
+<blockquote class="quote">
+Computers are useless. They can only give you answers.
+<cite>Pablo Picasso</cite>
+</blockquote>
+</p>
+</main>
+
+<!--#include virtual="/templates/footer.html" -->
+</body>

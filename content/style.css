@@ -89,3 +89,30 @@ code {
   text-align: center;
   white-space: pre-line;
 }
+
+.quote {
+  font-style: italic;
+  border-left: 4px solid gray;
+  padding-left: 10px;
+  color: #555;
+}
+
+.quote cite {
+  display: block;
+  margin-top: 8px;
+  font-size: 0.9em;
+  color: #666;
+  font-style: normal
+}
+
+.quote cite::before {
+  content: "— ";
+}
+
+.date {
+  color: #777;
+  font-size: 0.9em;
+  margin-top: -8px;
+  margin-bottom: 20px;
+  font-family: system-ui, sans-serif;
+}

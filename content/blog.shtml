@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Franco's Website</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="/style.css">
+</head>
+
+<body>
+<!--#include virtual="/templates/header.html" -->
+
+<main>
+<h2>🪧 Blog</h2>
+<ul style="list-style:none; padding-left:0;">
+<li><a href="blog/2026-03-25_test.shtml">2026-03-25 Test</li>
+</ul>
+</main>
+
+<!--#include virtual="/templates/footer.html" -->
+</body>
