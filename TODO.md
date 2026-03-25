@@ -1,5 +1,3 @@
 - check lyrics
-- fix quote in mobile
-- fix navigation size
 - hide path on nginx script
 - self host
