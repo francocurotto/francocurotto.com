@@ -1,3 +1,2 @@
 - check lyrics
-- hide path on nginx script
 - self host
