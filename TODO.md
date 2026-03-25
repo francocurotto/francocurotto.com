@@ -1,1 +1,4 @@
+- check lyrics
+- fix quote in mobile
+- fix navigation size
 - self host
