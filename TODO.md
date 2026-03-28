@@ -1,4 +1,2 @@
-- check lyrics
-- delete translation for english original lyrics
 - buy table
 - self host
