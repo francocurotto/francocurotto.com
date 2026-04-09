@@ -1,2 +1,1 @@
-- buy table
 - self host
