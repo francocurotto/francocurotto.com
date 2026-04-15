@@ -1,1 +1,6 @@
-- self host
+- add security
+- redirect http to https
+-  add dark theme
+- blogs
+    - tablet
+    - cyphers
