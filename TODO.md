@@ -1,4 +1,3 @@
-- change nginx config file to a new original file
 - add dark theme
 - blogs
     - tablet
