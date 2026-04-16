@@ -1,6 +1,6 @@
 :root {
-    --bg: #ffffff;
-    --fg: #222222;
+    --bg: #f8f2e3;
+    --fg: #333333;
     --accent: #0066cc;
 }
 
@@ -17,6 +17,17 @@ header {
   border-bottom: 1px solid #ddd;
 }
 
+a {
+  text-decoration: none;
+  padding: 0.1rem 0.1rem;
+  border-radius: 4px;
+  transition: background-color 0.2s ease;
+}
+
+a:hover {
+  background-color: rgba(0, 102, 204, 0.2);
+}
+
 nav {
   display: flex;
   justify-content: center;
@@ -25,14 +36,7 @@ nav {
 }
 
 nav a {
-  text-decoration: none;
   padding: 0.25rem 0.5rem;
-  border-radius: 4px;
-  transition: background-color 0.2s ease;
-}
-
-nav a:hover {
-  background-color: rgba(0, 102, 204, 0.1);
 }
 
 main {
@@ -63,12 +67,9 @@ footer {
 
 footer a {
   margin-right: 1rem;
+  padding: 0.25rem 0.5rem;
   text-decoration: none;
   color: var(--accent);
-}
-
-footer a:hover {
-  text-decoration: underline;
 }
 
 .footnote {
