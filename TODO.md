@@ -1,6 +1,4 @@
-- add security
-- redirect http to https
--  add dark theme
+- add dark theme
 - blogs
     - tablet
     - cyphers
