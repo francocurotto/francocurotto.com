@@ -1,4 +1,3 @@
-- change background and font colors
 - blogs
     - tablet
     - cyphers
