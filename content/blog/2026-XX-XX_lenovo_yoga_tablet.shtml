@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Franco's Website</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="/style.css">
+</head>
+
+<body>
+<!--#include virtual="/templates/header.html" -->
+
+<main>
+<h2>I'm still daily driving my 2016 tablet and I love it 😍</h2>
+<time class="date" datetime="2026-XX-XX">2026-XX-XX</time>
+<p>
+</p>
+</main>
+
+<!--#include virtual="/templates/footer.html" -->
+</body>
