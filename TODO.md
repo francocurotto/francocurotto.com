@@ -2,3 +2,4 @@
 - blogs
     - tablet
     - cyphers
+    - french
