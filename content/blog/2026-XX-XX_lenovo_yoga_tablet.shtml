@@ -25,25 +25,25 @@ PHOTO
 
 PHOTO of stand
 
-<li>In order to implement the stand, the tablet has a cylindrical protuberance along one of its long edges. Although this seems like an inconvenience, the extra space was used very cleverly by the designers. It holds a big 6200 mAh battery. It also hold a huge stereo audio system and a big power button. My favorite one, a camera that can be spin around the cylinder to switch it from standard to a selfie camera!</li>
+<li>In order to implement the stand, the tablet has a <b>cylindrical protuberance</b> along one of its long edges. Although this seems like an inconvenience, the extra space was used very cleverly by the designers. It holds a big 6200 mAh battery. It also hold a huge stereo audio system and a big power button. My favorite one, a camera that can be spin around the cylinder to switch it from standard to a selfie camera!</li>
 
 PHOTO of protuberance
 
-<li>Even more so, the non-flat shape and shift in center of mass that the protuberance produces make it very easy to handle with one hand, even when walking casually.</li>
+<li>Even more so, the non-flat shape and shift in center of mass that the protuberance produces make it very <b>easy to handle</b> with one hand, even when walking casually.</li>
 
 PHOTO of holding
 
-<li>On the software side: the OS is old (Android Marshmallow 6.0.1 (released on December 2015). Yet these of version of Android were very lenient in which apps can be disabled (I can disable Google Play Store, Chrome, and even Google keyboard). Also these version didn't have so much uninstallable bloat, and without updates I'm glad I'll don't have to deal with Google horrendous <a=https://developer.android.com/developer-verification>Developer Verification Update</a> (although it still affects all due to its impacts on <a=https://keepandroidopen.org/>developers</a>).</li>
+<li>On the software side: the OS is old (Android Marshmallow 6.0.1 (released on December 2015). Yet these of version of Android were very lenient in which <b>apps can be disabled</b> (I can disable Google Play Store, Chrome, and even Google keyboard). Also these version didn't have so much uninstallable bloat, and without updates I'm glad I'll don't have to deal with Google horrendous <a href=https://developer.android.com/developer-verification>Developer Verification Update</a> (although it still affects all due to its impacts on <a href=https://keepandroidopen.org/>developers</a>).</li>
 <li>The mere fact of using a +10 year old computing hardware without major issues is cool enough!</li>
 </ul>
 
 <h3>What I don't mind 🙂, or I had to fix 🛠️</h3>
 <ul>
-<li> Even though hardware this old can show it age, I really don't mind it for the things I use. For example its 0.88GB of RAM is more than enough for reading and video.</li>
-<li>Its 16GB of storage(with almost 5GB taken by System) is a little bit more limiting, but it is workable by using a by SD for external storage.</li>
-<li>While many apps are no longer compatible with the system, there more than enough apps for the things I do, and even if the last version of an app is no longer compatible, I can get a previous version from <a=https://www.apkmirror.com/>APKmirror</a>(see <a=#list>List of apps</a> for details).</li>
-<li>Still there is no compatible web browser that is modern and can browse the web with ease in such old hardware. This is no problem as I hardly need to visit a website for the things I do in the tablet. For those rare occasion I need to see a site, I use a old but compatible browser.</li>
-<li>Around 2020, the tablet start to behave sluggishly. In order to lower the burden on the OS I had to uninstall and disable every app that I didn't use. I even deleted Play Services and all Google related apps. It worked wonderfully, and the tablets behaves as good as new.</li>
+<li> Even though hardware this old can show its age, I really don't mind it for the things I use. For example its <b>&lt; 1GB of RAM</b> is more than enough for reading and video.</li>
+<li>Its <b>16GB of storage</b> (with almost 5GB taken by System) is a little bit more limiting, but it is workable by using a by SD for external storage.</li>
+<li>While many <b>apps are no longer compatible</b> with the system, there more than enough supported apps for the things I do, and even if the last version of an app is no longer compatible, I can get a previous version from <a href=https://www.apkmirror.com/>APKmirror</a> (see <a=#list>List of apps</a> for details).</li>
+<li>Still there is <b>no compatible web browser</b> that is modern and can browse the web with ease in such old hardware. This is no problem as I hardly need to visit a website for the things I do in the tablet. For those rare occasion I need to visit a site, I use a old but compatible browser.</li>
+<li>Around 2020, the tablet start to behave sluggishly. In order to lower the burden on the OS I had to uninstall and disable every app that I didn't use. I even <b>deleted Play Services and all Google related apps</b>. It worked wonderfully, and the tablets behaves as good as new.</li>
 </ul>
 
 <h3>Thing I don's like 😣</h3>
