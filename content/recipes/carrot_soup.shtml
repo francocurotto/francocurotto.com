@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Franco's Website</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="/style.css">
+</head>
+
+<body>
+<!--#include virtual="/templates/header.html" -->
+
+<main>
+<h2>🥕 Carrot Soup for Two in Thermomix</h2>
+<h3>📋 Ingredients</h3>
+<ul>
+<li>🥕 300g carrot in slices</li>
+<li>🧅 50g onions</li>
+<li>🧄 1 clove of garlic</li>
+<li>🫒 15g olive oil</li>
+<li>🥗 350g vegetable broth</li>
+<li>🥛 50g milk cream</li>
+</ul>
+<h3>🔢 Instructions</h3>
+<ol>
+<li>Chop the onions and garlic at <code>5s//s5</code>.</li>
+<li>Add the olive oil and fry at <code>5m/120C/s1</code>.</li>
+<li>Add carrots and chop at <code>5s//s5</code>.</li>
+<li>Add the broth and cook at <code>20m/100C/s1</code>.</li>
+<li>Add the cream and crush at <code>1m//s5→s10</code>.</li>
+</ol>
+<h3>💡 Ideas</h3>
+<ul>
+<li>🧂 add salt and/or pepper to your liking.</li>
+</ul>
+</main>
+
+<!--#include virtual="/templates/footer.html" -->
+</body>
