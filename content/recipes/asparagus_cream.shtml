@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Franco's Website</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="/style.css">
+</head>
+
+<body>
+<!--#include virtual="/templates/header.html" -->
+
+<main>
+<h2>🌱 Asparagus Cream in Thermomix</h2>
+<h3>📋 Ingredients</h3>
+<ul>
+<li>🌱 250g asparagus</li>
+<li>🧅 75g onion</li>
+<li>🫒 15g olive oil</li>
+<li>🥣 250g vegetable bouillon</li>
+<li>🥛 50g milk</li>
+<li>🧂 1/4 tsp salt</li>
+</ul>
+<h3>🔢 Instructions</h3>
+<ol>
+<li>Add onions and cut at <code>5s//s5</code>.</li>
+<li>Add olive oli and fry at <code>5m/120C/s1</code>.</li>
+<li>Remove asparagus ends, and cut 3/4cm pieces.</li>
+<li>Add asparagus and cook at <code>10m/100C/s1</code>.</li>
+<li>Wait 2 minutes.</li>
+<li>Crush at <code>1m//s5→s10</code>.</li>
+<li>Add milk and cook at <code>2m/80C/s2</code>.</li>
+</ol>
+<h3>💡 Ideas</h3>
+<ul>
+<li>Replace cream for milk for more creamness.</li>
+<li>Add 75g of 🥔 potato for milk for more thickness.</li>
+<li>Add pepper for more flavor.</li>
+</ul>
+</main>
+
+<!--#include virtual="/templates/footer.html" -->
+</body>
