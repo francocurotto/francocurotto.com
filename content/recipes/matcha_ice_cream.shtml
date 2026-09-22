@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Franco's Website</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="/style.css">
+</head>
+
+<body>
+<!--#include virtual="/templates/header.html" -->
+
+<main>
+<h2>🍦 Matcha Ice Cream in Thermomix</h2>
+<h3>📋 Ingredients</h3>
+<ul>
+<li>🥛 500g milk</li>
+<li>🍦 200g cream</li>
+<li>🍬 120g sugar</li>
+<li>🍳 3 egg yolk</li>
+<li>🍵 2tsp matcha powder</li>
+<li>🧂 1 pinch salt</li>
+</ul>
+<h3>🔢 Instructions</h3>
+<ol>
+<li>Add milk, cream, sugar yolks, and salt and cook at <code>8m/90C/s3</code>.</li>
+<li>Add matcha with a sieve and mix at <code>20s//s4</code>.</li>
+<li>Cold in fridge for 4 hours.</li>
+<li>Move to container and freeze for 8 hours.</li>
+<li>Cut in pieces and crush at <code>30s//s6</code>, then <code>30s//s10</code>.</li>
+</ol>
+</main>
+
+<!--#include virtual="/templates/footer.html" -->
+</body>
